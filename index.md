@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Hong Liu (刘 弘)**
+# Hong Liu (刘 弘) 
 
 [Media Analysis and Computing Lab (MAC)](http://mac.xmu.edu.cn/index.php).
 

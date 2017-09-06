@@ -60,4 +60,4 @@ My research interests are in computer vision, machine learning, and information 
 **E-mail**:  lynnliu0207[AT]163.com  or lynnliu.xmu[AT]gmail.com or hliu.xmu[AT]aliyun.com
    
 ---
-[URL=http://s05.flagcounter.com/more/sw][IMG]https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/[/IMG][/URL]
+<a href="http://s05.flagcounter.com/more/sw"><img src="https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>

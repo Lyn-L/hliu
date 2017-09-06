@@ -12,7 +12,7 @@ layout: default
 
 Email: lynnliu.xmu [AT] gmail.com **or **lynnliu0207[AT]163.com                 
 
-[[CV\]](http://mac.xmu.edu.cn/pdf/HongLiu_cv.pdf) [[Goolge Scholar\]](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN)
+[[CV\]](http://mac.xmu.edu.cn/pdf/HongLiu_cv.pdf) [[Goolge Scholar\]](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN) [[Goolge Website\]](https://sites.google.com/site/hlxmu27)
 
 ## About Me
 
@@ -48,9 +48,8 @@ My research interests are in computer vision, machine learning, and information 
 
 ## Awards
 
-* **Highlights in MIREX 2015 Query-by-Humming, 2015. ** (Link, Science China)
+* **Highlights in MIREX 2015 Query-by-Humming, 2015.**  ([Link](http://www.music-ir.org/mirex/wiki/2015:MIREX2015_Results))
 
-  ​
 
 ## Contact
 

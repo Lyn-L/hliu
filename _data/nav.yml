@@ -1,5 +1,5 @@
 - name: "Resume"
   link: "resume.pdf"
 
-- name: "About"
-  link: "/researcher/"
+- name: "GitHub"
+  link: https://github.com/LynnHongLiu

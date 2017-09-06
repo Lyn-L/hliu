@@ -17,7 +17,7 @@ Email: lynnliu.xmu [AT] gmail.com **or** lynnliu0207[AT]163.com           
 
 <img class="profile-picture" src="hongliu.jpg">
 
-I am currently a first year Ph.D student in computer science at [Xiamen University](http://www.xmu.edu.cn/), under by [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-en.html). 
+I am currently a second year Ph.D student in computer science at [Xiamen University](http://www.xmu.edu.cn/), under by [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-en.html). 
 
 My research interests are in computer vision, machine learning, and information retrieval, especially binary code learning, big data indexing and deep feature learning.
 

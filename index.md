@@ -12,7 +12,7 @@ layout: default
 
 Email: lynnliu.xmu [AT] gmail.com **or** lynnliu0207[AT]163.com                 
 
-[Goolge Scholar](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN)] [Goolge Website](https://sites.google.com/site/hlxmu27)
+[[Goolge Scholar](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN)] [[Goolge Website](https://sites.google.com/site/hlxmu27)]
 
 ## About Me
 

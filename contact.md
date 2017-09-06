@@ -3,24 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: lynnliu.xmu [at] gmail.com or lynnliu0207 [at] 163.com 
 
-* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+Institution: School of Information Science and Engineering, Xiamen University, China
 
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+Address:     Room 701, Administration Building #B, Haiyun Park, Xiamen University, 361005

@@ -50,7 +50,7 @@ My research interests are in computer vision, machine learning, and information 
 
 * **Highlights in MIREX 2015 Query-by-Humming, 2015.**  ([Link](http://www.music-ir.org/mirex/wiki/2015:MIREX2015_Results))
 
----
+
 ## Contact
 
 **Institution**: School of Information Science and Engineering, Xiamen University, China

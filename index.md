@@ -61,14 +61,8 @@ My research interests are in computer vision, machine learning, and information 
    
 ---
 <tr>
-<td valign="top">  
+
 <a href="https://info.flagcounter.com/wOKQ"> <img src="https://s05.flagcounter.com/count/wOKQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" height="70px" weight="35px" alt="Flag Counter" border="0"> </a>
-     </td>
-   <td valign="top">  
-<a href="https://info.flagcounter.com/wOKQ"> <img src="https://s05.flagcounter.com/count/wOKQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" height="70px" weight="35px" alt="Flag Counter" border="0"> </a>
-     </td>
-   <td valign="top">  
-<a href="https://info.flagcounter.com/wOKQ"> <img src="https://s05.flagcounter.com/count/wOKQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" height="70px" weight="35px" alt="Flag Counter" border="0"> </a>
-     </td>
+
   </tr>
    

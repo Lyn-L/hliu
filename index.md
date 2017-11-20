@@ -26,7 +26,6 @@ My research interests are in computer vision, machine learning, and information 
 - 1 paper accepted by TIP, 2017-06.
 - 1 paper accepted by CVPR'2017, 2017-03.
 - 1 paper accepted by AAAI'2017, 2016-11. 
-- 1 paper accepted by IJCAI'2016, 2016-04. 
 
 ## Publications
 
@@ -57,6 +56,12 @@ My research interests are in computer vision, machine learning, and information 
 **Address**: Room 703, Administration Building #B, Haiyun Park, Xiamen University, 361005
 
 **E-mail**:  lynnliu0207[AT]163.com  or lynnliu.xmu[AT]gmail.com or hliu.xmu[AT]aliyun.com
+
+## Friends
+[Shengchuan Zhang](https://scholar.google.com/citations?user=GToqXScAAAAJ&hl=en) Xiamen University
+[Zhun Zhong](http://zhunzhong.site/) Xiamen University & University of Technology Sydney
+[Qingyuan Jiang](http://lamda.nju.edu.cn/jiangqy/) Nanjing University
+[Jie Gui](https://scholar.google.com/citations?hl=en&user=f8oE8NgAAAAJ&view_op=list_works&sortby=pubdate) Chinese Academy of Sciences (CAS)
    
 ---
 <a href="http://s05.flagcounter.com/more/sw"><img src="https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>

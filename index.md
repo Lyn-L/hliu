@@ -59,8 +59,11 @@ My research interests are in computer vision, machine learning, and information 
 
 ## Friends
 [Shengchuan Zhang](https://scholar.google.com/citations?user=GToqXScAAAAJ&hl=en) Xiamen University
+
 [Zhun Zhong](http://zhunzhong.site/) Xiamen University & University of Technology Sydney
+
 [Qingyuan Jiang](http://lamda.nju.edu.cn/jiangqy/) Nanjing University
+
 [Jie Gui](https://scholar.google.com/citations?hl=en&user=f8oE8NgAAAAJ&view_op=list_works&sortby=pubdate) Chinese Academy of Sciences (CAS)
    
 ---

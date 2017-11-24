@@ -62,6 +62,8 @@ My research interests are in computer vision, machine learning, and information 
 
 [Zhun Zhong](http://zhunzhong.site/) Xiamen University & University of Technology Sydney
 
+[Zhiming Luo](https://sites.google.com/view/zhimingluo) Xiamen University 
+
 [Qingyuan Jiang](http://lamda.nju.edu.cn/jiangqy/) Nanjing University
 
 [Jie Gui](https://scholar.google.com/citations?hl=en&user=f8oE8NgAAAAJ&view_op=list_works&sortby=pubdate) Chinese Academy of Sciences (CAS)

@@ -46,7 +46,7 @@ My research interests are in computer vision, machine learning, and information 
 
 ## Awards
 
-* **National PhD Fellowship, 2017.**
+* **National Scholarships, 2017.**
 
 * **Highlights in MIREX 2015 Query-by-Humming, 2015.**  ([Link](http://www.music-ir.org/mirex/wiki/2015:MIREX2015_Results))
 

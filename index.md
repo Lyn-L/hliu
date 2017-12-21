@@ -25,7 +25,6 @@ My research interests are in computer vision, machine learning, and information 
 
 - 1 paper accepted by TIP, 2017-06.
 - 1 paper accepted by CVPR'2017, 2017-03.
-- 1 paper accepted by AAAI'2017, 2016-11. 
 
 ## Publications
 

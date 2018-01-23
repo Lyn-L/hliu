@@ -59,13 +59,14 @@ My research interests are in computer vision, machine learning, and information 
 **E-mail**:  lynnliu0207[AT]163.com  or lynnliu.xmu[AT]gmail.com or hliu.xmu[AT]aliyun.com
 
 ## Friends
-[Shengchuan Zhang](https://scholar.google.com/citations?user=GToqXScAAAAJ&hl=en) Xiamen University
 
 [Zhun Zhong](http://zhunzhong.site/) Xiamen University & University of Technology Sydney
 
 [Zhiming Luo](https://sites.google.com/view/zhimingluo) Xiamen University 
 
 [Qingyuan Jiang](http://lamda.nju.edu.cn/jiangqy/) Nanjing University
+
+[Shengchuan Zhang](https://scholar.google.com/citations?user=GToqXScAAAAJ&hl=en) Xiamen University
 
 [Jie Gui](https://scholar.google.com/citations?hl=en&user=f8oE8NgAAAAJ&view_op=list_works&sortby=pubdate) Chinese Academy of Sciences (CAS)
    

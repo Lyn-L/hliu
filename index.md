@@ -21,11 +21,6 @@ I am currently a second year Ph.D student in computer science at [Xiamen Univers
 
 My research interests are in computer vision, machine learning, and information retrieval, especially binary code learning, big data indexing and deep feature learning.
 
-## News:
-
-- 1 paper accepted by TIP, 2017-06.
-- 1 paper accepted by CVPR'2017, 2017-03.
-
 ## Publications
 
 1. Rongrong Ji; **Hong Liu**; Liujuan Cao; Di Liu; Yongjian Wu, and Feiyue Huang. [Towards Optimal Manifold Hashing via Discrete Locally Linear Embedding](http://ieeexplore.ieee.org/abstract/document/8000395/), IEEE Trans. on Image Processing, Volume 26, Issue 11, 2017. [[MATLAB CODES](https://github.com/LynnHongLiu/DLLH)]

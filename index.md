@@ -15,7 +15,7 @@ Email: lynnliu.xmu [AT] gmail.com **or** lynnliu0207[AT]163.com           
 
 ## About Me
 
-<img class="profile-picture" src="hongliu.jpg">
+<img class="profile-picture" src="WechatIMG19.jpg">
 
 I am currently a second year Ph.D student in computer science at [Xiamen University](http://www.xmu.edu.cn/), under by [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-en.html). 
 

@@ -30,13 +30,17 @@ My research interests are in computer vision, machine learning, and information 
 5. **Hong Liu**; Rongrong Ji; Yongjian Wu; Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding. ](http://www.ee.columbia.edu/~wliu/AAAI16_OrdinalEmbed.pdf)AAAI, 2016. [[MATLAB CODES](https://github.com/LynnHongLiu/OEH)]
 6. **Hong Liu**, Aiwen Jiang, Mingwen Wang and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
+## Submitted Papers:
+1. H. Liu, R. Ji, J. Wang, and C. Shen. Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2018. (Minor Revised)
+2. J. Qian, R. Ji, X. Lin, H. Lin, and Y. Deng. Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding. IEEE International Conference on Multimedia and Expo (ICME) 2018.
+
 ## Working Experiences
 
 - 2015.07 - 2015.09, Research Intern, [Tencent Youtu Lab](https://bestimage.qq.com/).
 
 ## Activities
 
-**Reviewer**: PLOS ONE, TIP, Neurocomputing, TVCJ, ACM MM.
+**Reviewer**: TIP, TKDE, PR, PRL, Neurocomputing, TVCJ, ACM MM, PLOS ONE.
 
 ## Awards
 

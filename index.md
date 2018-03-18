@@ -38,7 +38,8 @@ My research interests are in computer vision, machine learning, and information 
 
 ## Activities
 
-**Reviewer**: TIP, TKDE, PR, PRL, Neurocomputing, TVCJ, ACM MM, PLOS ONE.
+**Reviewer**: TIP, TKDE, PR, PRL, Neurocomputing, TVCJ, ACM MM, ACM ICMR, PLOS ONE.
+Program Committee of "Large-Scale 3D Multimedia Analysis and Applications" in ICMR 2018.
 
 ## Awards
 

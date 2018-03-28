@@ -23,7 +23,7 @@ My research interests are in computer vision, machine learning, and information 
 
 ## Publications
 
-1. **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2018. 
+1. **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. [Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search](http://ieeexplore.ieee.org/document/8326558/). IEEE Trans. on Pattern Analysis and Machine Intelligence. 2018. 
 2. Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng, and  Rongrong Ji. Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding. ICME, 2018. (Oral)
 3. Rongrong Ji; **Hong Liu**; Liujuan Cao; Di Liu; Yongjian Wu, and Feiyue Huang. [Towards Optimal Manifold Hashing via Discrete Locally Linear Embedding](http://ieeexplore.ieee.org/abstract/document/8000395/), IEEE Trans. on Image Processing, Volume 26, Issue 11, 2017. [[MATLAB CODES](https://github.com/LynnHongLiu/DLLH)]
 4. **Hong Liu**; Rongrong Ji; Yongjian Wu; Feiyue Huang; Baochang Zhang. [Cross-Modality Binary Code Learning via Fusion Similarity Hashing](http://mac.xmu.edu.cn/pdf/3667.pdf). CVPR, 2017. [[MATLAB CODES](https://github.com/LynnHongLiu/FSH)]

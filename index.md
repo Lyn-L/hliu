@@ -28,7 +28,7 @@ My research interests are in computer vision and machine learning, especially in
 3. **Hong Liu**, Aiwen Jiang, Mingwen Wang and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
-1. Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng, and  Rongrong Ji. Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding. ICME, 2018. (Oral) 
+1. Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng, and  Rongrong Ji. [Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding](https://lynnhongliu.github.io/hliu/icme18.pdf). ICME, 2018. (Oral) 
 2. **Hong Liu**; Rongrong Ji; Yongjian Wu; Feiyue Huang; Baochang Zhang. [Cross-Modality Binary Code Learning via Fusion Similarity Hashing](http://mac.xmu.edu.cn/pdf/3667.pdf). CVPR, 2017. [[MATLAB CODES](https://github.com/LynnHongLiu/FSH)]
 3. **Hong Liu**; Rongrong Ji; Yongjian Wu; Feiyue Huang. [Ordinal Constrained Binary Code Learning for Nearest Neighbor Search](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14813/14399). AAAI, 2017. (Oral) [[MATLAB CODES](https://github.com/LynnHongLiu/OCH)]
 4. **Hong Liu**; Rongrong Ji; Yongjian Wu; Gang Hua. [Supervised Matrix Factorization for Cross-Modality Hashing](http://www.ijcai.org/Proceedings/16/Papers/253.pdf). IJCAI, 2016. [[MATALB CODES](https://github.com/LynnHongLiu/SMFH)] [[STATEMENT](http://mac.xmu.edu.cn/pdf/RPub.pdf)]

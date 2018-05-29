@@ -22,7 +22,8 @@ I am currently a second year Ph.D student in computer science at [Xiamen Univers
 My research interests are in computer vision and machine learning, especially in hashing-accelerated machine learning, Riemannian-based machine learning, and adversarial deep learning.
 
 ## Publications
-## Pre-print:
+
+### Pre-print:
 Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Rongrong Ji. [Less is More: Unified Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871).In Arixv,2018
 
 ### Journal:

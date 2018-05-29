@@ -24,7 +24,7 @@ My research interests are in computer vision and machine learning, especially in
 ## Publications
 
 ### Pre-print:
-Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Rongrong Ji. [Less is More: Unified Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871).In Arixv,2018
+1. Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Rongrong Ji. [Less is More: Unified Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871).In Arixv,2018
 
 ### Journal:
 1. **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. [Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search](http://ieeexplore.ieee.org/document/8326558/). IEEE Trans. on Pattern Analysis and Machine Intelligence. 2018. 

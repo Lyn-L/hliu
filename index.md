@@ -5,13 +5,11 @@ layout: default
 
 [Media Analysis and Computing Lab (MAC)](http://mac.xmu.edu.cn/index.php).
 
-[School of Information Science and Engineering](http://information.xmu.edu.cn/portal/).
-
 [Xiamen University](http://www.xmu.edu.cn/), China.
 
-Email: lynnliu.xmu [AT] gmail.com **or** lynnliu0207[AT]163.com              
+Email: lynnliu.xmu[AT]gmail.com **or** lynnliu0207[AT]163.com              
 
-[[Goolge Scholar](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN)] [[Goolge Website](https://sites.google.com/site/hlxmu27)]
+[[Goolge Scholar](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN)] [[Old Website](https://sites.google.com/site/hlxmu27)]
 
 ## About Me
 
@@ -60,9 +58,9 @@ My research interests are in computer vision and machine learning, especially in
 
 **Institution**: School of Information Science and Engineering, Xiamen University, China
 
-**Address**: Room 703, Administration Building #B, Haiyun Park, Xiamen University, 361005
+**Address**: Room 701, Administration Building #B, Haiyun Park, Xiamen University, 361005
 
-**E-mail**:  lynnliu0207[AT]163.com  or lynnliu.xmu[AT]gmail.com or hliu.xmu[AT]aliyun.com
+**E-mail**:  lynnliu.xmu[AT]gmail.com or lynnliu0207[AT]163.com or lynnliu[AT]stu.xmu.edu.cn
 
 ## Friends
 

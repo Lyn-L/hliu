@@ -22,6 +22,9 @@ I am currently a second year Ph.D student in computer science at [Xiamen Univers
 My research interests are in computer vision and machine learning, especially in hashing-accelerated machine learning, Riemannian-based machine learning, and adversarial deep learning.
 
 ## Publications
+## Pre-print:
+Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Rongrong Ji. [Less is More: Unified Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871).In Arixv,2018
+
 ### Journal:
 1. **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. [Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search](http://ieeexplore.ieee.org/document/8326558/). IEEE Trans. on Pattern Analysis and Machine Intelligence. 2018. 
 2. Rongrong Ji; **Hong Liu**; Liujuan Cao; Di Liu; Yongjian Wu, and Feiyue Huang. [Towards Optimal Manifold Hashing via Discrete Locally Linear Embedding](http://ieeexplore.ieee.org/abstract/document/8000395/), IEEE Trans. on Image Processing, Volume 26, Issue 11, 2017. [[MATLAB CODES](https://github.com/LynnHongLiu/DLLH)]

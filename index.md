@@ -36,9 +36,6 @@ My research interests are in computer vision and machine learning, especially in
 4. **Hong Liu**; Rongrong Ji; Yongjian Wu; Gang Hua. [Supervised Matrix Factorization for Cross-Modality Hashing](http://www.ijcai.org/Proceedings/16/Papers/253.pdf). IJCAI, 2016. [[MATALB CODES](https://github.com/LynnHongLiu/SMFH)] [[STATEMENT](http://mac.xmu.edu.cn/pdf/RPub.pdf)]
 5. **Hong Liu**; Rongrong Ji; Yongjian Wu; Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding. ](http://www.ee.columbia.edu/~wliu/AAAI16_OrdinalEmbed.pdf)AAAI, 2016. [[MATLAB CODES](https://github.com/LynnHongLiu/OEH)]
 
-### Submitted Papers:
-1. Mingbao Lin, Rongrong Ji, **Hong Liu**, and Yongjian Wu. Supervised Online Hashing via Hadamard Codebook Learning. Under Review.
-2. **Hong Liu**, Mingbao Lin, Shengchuan Zhang, Yongjian Wu, Feiyue Huang, Rongrong Ji. Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval. Under Review.
 
 ## Working Experiences
 

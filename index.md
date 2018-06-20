@@ -43,7 +43,7 @@ My research interests are in computer vision and machine learning, especially in
 
 ## Activities
 
-**Reviewer**: TIP, TKDE, PR, PRL, Neurocomputing, TVCJ, PLOS ONE.
+**Reviewer**: IEEE TIP, IEEE TKDE, PR, PRL, Neurocomputing, TVCJ, PLOS ONE.
 
 **PC Member**: ICMR, IEEE-ICBK.
 

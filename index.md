@@ -32,8 +32,8 @@ My research interests are in computer vision and machine learning, especially in
 ### Conference:
 1. **Hong Liu**, Jie Li, Rongrong Ji, and Yongjian Wu. Learning Neural Bag-of-Matrix-Summarization with Riemannian Network. AAAI, 2019. 
 2. Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Yongjian Wu, and Yunsheng Wu. Towards Optimal Discrete Online Hashing with Balanced Similarity. AAAI, 2019.
-3. **Hong Liu**, Mingbao Lin, Shengchuan Zhang, Yongjian Wu, Feiyue Huang, and Rongrong Ji. Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval. ACM MM, 2018. 
-4. Mingbao Lin, Rongrong Ji, **Hong Liu**, and Yongjian Wu. Supervised Online Hashing via Hadamard Codebook Learning. ACM MM, 2018. (Oral) 
+3. **Hong Liu**, Mingbao Lin, Shengchuan Zhang, Yongjian Wu, Feiyue Huang, and Rongrong Ji. [Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval](https://dl.acm.org/citation.cfm?id=3240684). ACM MM, 2018. 
+4. Mingbao Lin, Rongrong Ji, **Hong Liu**, and Yongjian Wu. [Supervised Online Hashing via Hadamard Codebook Learning](https://dl.acm.org/citation.cfm?id=3240519). ACM MM, 2018. (Oral) 
 5. Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng, and  Rongrong Ji. [Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding](https://lynnhongliu.github.io/hliu/icme18.pdf). ICME, 2018. (Oral) 
 6. **Hong Liu**; Rongrong Ji; Yongjian Wu; Feiyue Huang; Baochang Zhang. [Cross-Modality Binary Code Learning via Fusion Similarity Hashing](http://mac.xmu.edu.cn/pdf/3667.pdf). CVPR, 2017. [[MATLAB CODES](https://github.com/LynnHongLiu/FSH)]
 7. **Hong Liu**; Rongrong Ji; Yongjian Wu; Feiyue Huang. [Ordinal Constrained Binary Code Learning for Nearest Neighbor Search](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14813/14399). AAAI, 2017. (Oral) [[MATLAB CODES](https://github.com/LynnHongLiu/OCH)]

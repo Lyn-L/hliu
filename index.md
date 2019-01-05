@@ -32,8 +32,8 @@ My research interests are in computer vision and machine learning, especially in
 3. **Hong Liu**, Aiwen Jiang, Mingwen Wang and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
-1. **Hong Liu**, Jie Li, Rongrong Ji, and Yongjian Wu. Learning Neural Bag-of-Matrix-Summarization with Riemannian Network. AAAI, 2019. 
-2. Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Yongjian Wu, and Yunsheng Wu. Towards Optimal Discrete Online Hashing with Balanced Similarity. AAAI, 2019.
+1. **Hong Liu**, Jie Li, Rongrong Ji, and Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](http://mac.xmu.edu.cn/rrji/papers/aaai-2019_liuhong.pdf). AAAI, 2019. 
+2. Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Yongjian Wu, and Yunsheng Wu. [Towards Optimal Discrete Online Hashing with Balanced Similarity](http://mac.xmu.edu.cn/rrji/papers/Towards%20Optimal%20Discrete%20Online%20Hashing%20with%20Balanced%20Similarity.pdf). AAAI, 2019.
 3. **Hong Liu**, Mingbao Lin, Shengchuan Zhang, Yongjian Wu, Feiyue Huang, and Rongrong Ji. [Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval](https://dl.acm.org/citation.cfm?id=3240684). ACM MM, 2018. 
 4. Mingbao Lin, Rongrong Ji, **Hong Liu**, and Yongjian Wu. [Supervised Online Hashing via Hadamard Codebook Learning](https://dl.acm.org/citation.cfm?id=3240519). ACM MM, 2018. (Oral) 
 5. Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng, and  Rongrong Ji. [Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding](https://lynnhongliu.github.io/hliu/icme18.pdf). ICME, 2018. (Oral) 

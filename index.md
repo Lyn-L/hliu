@@ -40,7 +40,7 @@ My research interests are in computer vision and machine learning, especially in
 7. **Hong Liu**; Rongrong Ji; Yongjian Wu; Feiyue Huang; Baochang Zhang. [Cross-Modality Binary Code Learning via Fusion Similarity Hashing](http://mac.xmu.edu.cn/pdf/3667.pdf). CVPR, 2017. [[MATLAB CODES](https://github.com/LynnHongLiu/FSH)]
 8. **Hong Liu**; Rongrong Ji; Yongjian Wu; Feiyue Huang. [Ordinal Constrained Binary Code Learning for Nearest Neighbor Search](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14813/14399). AAAI, 2017. (Oral) [[MATLAB CODES](https://github.com/LynnHongLiu/OCH)]
 9. **Hong Liu**; Rongrong Ji; Yongjian Wu; Gang Hua. [Supervised Matrix Factorization for Cross-Modality Hashing](http://www.ijcai.org/Proceedings/16/Papers/253.pdf). IJCAI, 2016. [[MATALB CODES](https://github.com/LynnHongLiu/SMFH)] [[STATEMENT](http://mac.xmu.edu.cn/pdf/RPub.pdf)]
-10. **Hong Liu**; Rongrong Ji; Yongjian Wu; Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding. ](http://www.ee.columbia.edu/~wliu/AAAI16_OrdinalEmbed.pdf)AAAI, 2016. [[MATLAB CODES](https://github.com/LynnHongLiu/OEH)]
+10.  **Hong Liu**; Rongrong Ji; Yongjian Wu; Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding. ](http://www.ee.columbia.edu/~wliu/AAAI16_OrdinalEmbed.pdf)AAAI, 2016. [[MATLAB CODES](https://github.com/LynnHongLiu/OEH)]
 
 
 ## Working Experiences

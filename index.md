@@ -76,8 +76,6 @@ My research interests are in computer vision and machine learning, especially in
 
 [Hao Ye](https://scholar.google.com/citations?hl=zh-CN&user=IUeasPoAAAAJ&view_op=list_works&sortby=pubdate) Shanghai Advanced Research Institute, CAS
 
-[Mingbao Lin](https://lmbxmu.github.io/) Xiamen University 
-
 [Qingyuan Jiang](http://lamda.nju.edu.cn/jiangqy/) Nanjing University
 
 [Shengchuan Zhang](https://scholar.google.com/citations?user=GToqXScAAAAJ&hl=en) Xiamen University

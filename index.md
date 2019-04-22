@@ -49,7 +49,7 @@ My research interests are in computer vision and machine learning, especially in
 
 ## Activities
 
-**Journal Reviewer**: IEEE TIP, IEEE TKDE, PR, PRL, AIRE, NEUCOM, TVCJ, PLOS ONE.
+**Journal Reviewer**: IEEE TIP, IEEE TKDE, PR, PRL, AIRE, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
 **Conference reviewer**: ICCV, ICMR, IEEE-ICBK.
 

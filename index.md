@@ -50,7 +50,7 @@ I am currently a third year Ph.D student in computer science at [Xiamen Universi
 
 **Journal Reviewer**: IEEE TIP, IEEE TKDE, PR, PRL, AIRE, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
-**Conference reviewer**: ICCV, ICMR, IEEE-ICBK.
+**Conference reviewer**: ICCV, ACM MM, WACV, ICMR, IEEE-ICBK.
 
 ## Awards
 

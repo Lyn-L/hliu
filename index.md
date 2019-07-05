@@ -28,7 +28,7 @@ I am currently a third year Ph.D student in computer science at [Xiamen Universi
 
 ### Conference:
 - Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang and Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019.
-- Jie Hu, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Cheng Deng, Qi Tian. [Towards Visual Feature Translation](https://arxiv.org/abs/1812.00573). CVPR, 2019.
+- Jie Hu, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Cheng Deng, Qi Tian. [Towards Visual Feature Translation](https://arxiv.org/abs/1812.00573). CVPR, 2019.[[CODES]](https://github.com/hujiecpp/VisualFeatureTranslation)
 - **Hong Liu**, Jie Li, Rongrong Ji, and Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](http://mac.xmu.edu.cn/rrji/papers/aaai-2019_liuhong.pdf). AAAI, 2019. 
 - Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Yongjian Wu, and Yunsheng Wu. [Towards Optimal Discrete Online Hashing with Balanced Similarity](http://mac.xmu.edu.cn/rrji/papers/Towards%20Optimal%20Discrete%20Online%20Hashing%20with%20Balanced%20Similarity.pdf). AAAI, 2019. [[MATALB CODES](https://github.com/lmbxmu/mycode/tree/master/2019AAAI_BSODH)]
 - **Hong Liu**, Mingbao Lin, Shengchuan Zhang, Yongjian Wu, Feiyue Huang, and Rongrong Ji. [Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval](https://dl.acm.org/citation.cfm?id=3240684). ACM MM, 2018. 

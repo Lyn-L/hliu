@@ -12,7 +12,7 @@ Email: lynnliu.xmu[AT]gmail.com **or** lynnliu0207[AT]163.com            �
 
 <img class="profile-picture" src="hongliu_2.jpg">
 
-I am currently a third year Ph.D student in computer science at [Xiamen University](http://www.xmu.edu.cn/). My research interests are in computer vision and machine learning, especially in hashing-accelerated machine learning, Riemannian-based machine learning, and adversarial deep learning.
+I am currently a final year Ph.D student in computer science at [Xiamen University](http://www.xmu.edu.cn/). My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and adversarial deep learning.
 
 ## Publications
 

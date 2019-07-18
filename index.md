@@ -4,8 +4,6 @@ layout: default
 
 [Xiamen University](http://www.xmu.edu.cn/), China.
 
-Email: lynnliu.xmu[AT]gmail.com **or** lynnliu0207[AT]163.com              
-
 [[Goolge Scholar](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN)] 
 
 ## About Me

@@ -16,7 +16,6 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 
 ### Pre-print:
 - Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
-- Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. [Universal Perturbation Attack Against Image Retrieval](https://arxiv.org/abs/1812.00552). In Arxiv, 2018.
 - Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Shen Chen, Qi Tian. [Hadamard Matrix Guided Online Hashing](https://arxiv.org/abs/1905.04454). In Arxiv, 2019. (The extended version of the MM 18)
 
 ### Journal:
@@ -25,6 +24,8 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
+- **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation. ICCV, 2019.
+- Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. [Universal Perturbation Attack Against Image Retrieval](https://arxiv.org/abs/1812.00552). ICCV, 2019.
 - Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang and Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019. [[CODES](https://github.com/LynnHongLiu/Face-anti-spoofing)]
 - Jie Hu, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Cheng Deng, Qi Tian. [Towards Visual Feature Translation](https://arxiv.org/abs/1812.00573). CVPR, 2019. [[CODES](https://github.com/hujiecpp/VisualFeatureTranslation)]
 - **Hong Liu**, Jie Li, Rongrong Ji, and Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](http://mac.xmu.edu.cn/rrji/papers/aaai-2019_liuhong.pdf). AAAI, 2019. [Codes Coming Soon]

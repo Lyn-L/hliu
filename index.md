@@ -8,7 +8,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="hongliu_2.jpg">
+<img class="profile-picture" src="hongliu_2.JPG">
 
 I am currently a final year Ph.D student in computer science at [Xiamen University](http://www.xmu.edu.cn/). My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and adversarial deep learning.
 

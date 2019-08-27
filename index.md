@@ -25,7 +25,7 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 
 ### Conference:
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]
-- Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. [Universal Perturbation Attack Against Image Retrieval](https://arxiv.org/abs/1812.00552). ICCV, 2019. [Codes Coming Soon]
+- Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. Universal Perturbation Attack Against Image Retrieval.[V1](https://arxiv.org/abs/1812.00552), [V2](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. [Codes Coming Soon]
 - Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang and Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019. [[CODES](https://github.com/LynnHongLiu/Face-anti-spoofing)]
 - Jie Hu, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Cheng Deng, Qi Tian. [Towards Visual Feature Translation](https://arxiv.org/abs/1812.00573). CVPR, 2019. [[CODES](https://github.com/hujiecpp/VisualFeatureTranslation)]
 - **Hong Liu**, Jie Li, Rongrong Ji, and Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](https://aaai.org/ojs/index.php/AAAI/article/view/4899/4772). AAAI, 2019. [Codes Coming Soon]

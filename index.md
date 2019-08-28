@@ -47,7 +47,7 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 
 **Journal Reviewer**: IEEE TIP, IEEE TKDE, PR, PRL, AIRE, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
-**Conference reviewer**: ICCV, ACM MM, WACV, ICMR, IEEE-ICBK.
+**Conference reviewer**: ICCV, AAAI, ACM MM, WACV, ICMR, IEEE-ICBK.
 
 ## Awards
 * **Highligts in ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019.** (Our Team name is MAC-adv-group) ([Link](https://sites.google.com/qq.com/chalearnfacespoofingattackdete/))

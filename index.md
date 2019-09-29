@@ -50,6 +50,8 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 **Conference reviewer**: CVPR'20, ICCV'19, AAAI'20, WACV'20, ACM MM'19, ICMR'18, IEEE-ICBK'18.
 
 ## Awards
+* **National Scholarships, 2019.**
+
 * **Highligts in ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019.** (Our Team name is MAC-adv-group) ([Link](https://sites.google.com/qq.com/chalearnfacespoofingattackdete/))
 
 * **National Scholarships, 2017.**

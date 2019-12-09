@@ -4,8 +4,6 @@ layout: default
 
 [Xiamen University](http://www.xmu.edu.cn/), China.
 
-[[Goolge Scholar](https://scholar.google.com/citations?user=BC7N2dYAAAAJ&hl=zh-CN)] 
-
 ## About Me
 
 <img class="profile-picture" src="hongliu_2.JPG">

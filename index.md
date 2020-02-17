@@ -44,7 +44,7 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 
 **Journal Reviewer**: IEEE TIP, IEEE TNNLS, IEEE TKDE, PR, PRL, AIRE, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
-**Conference reviewer or PC member**: CVPR'20, ECCV'20, AAAI'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
+**Conference reviewer or PC member**: CVPR'20, ECCV'20, ACM MM'20, AAAI'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
 
 ## Awards
 * **National Scholarships, 2019.**

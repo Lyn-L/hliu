@@ -13,10 +13,10 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 ## Publications
 
 ### Journal:
+- Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Shen Chen, Qi Tian. [Hadamard Matrix Guided Online Hashing](https://arxiv.org/abs/1905.04454). International Journal of Computer Vision, 2020. (The extended version of the MM 18)
 - **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. [Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search](http://ieeexplore.ieee.org/document/8326558/). IEEE Trans. on Pattern Analysis and Machine Intelligence. Volume: 41, Issue: 4, 2019. 
 - Rongrong Ji; **Hong Liu**; Liujuan Cao; Di Liu; Yongjian Wu, and Feiyue Huang. [Towards Optimal Manifold Hashing via Discrete Locally Linear Embedding](http://ieeexplore.ieee.org/abstract/document/8000395/), IEEE Trans. on Image Processing, Volume 26, Issue 11, 2017. [[CODES](https://github.com/LynnHongLiu/DLLH)]
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
-- Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Shen Chen, Qi Tian. [Hadamard Matrix Guided Online Hashing](https://arxiv.org/abs/1905.04454). In Arxiv, 2019. (The extended version of the MM 18)
 
 ### Conference:
 - Jie Li, Rongrong Ji, **Hong Liu**, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian. Projection & Probability-Driven Black-Box Attack. CVPR, 2020.[[CODES](https://github.com/theFool32/PPBA)]

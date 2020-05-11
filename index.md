@@ -19,7 +19,7 @@ I am currently a final year Ph.D student in computer science at [Xiamen Universi
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
-- Jie Li, Rongrong Ji, **Hong Liu**, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian. Projection & Probability-Driven Black-Box Attack. CVPR, 2020.[[CODES](https://github.com/theFool32/PPBA)]
+- Jie Li, Rongrong Ji, **Hong Liu**, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian. [Projection & Probability-Driven Black-Box Attack](https://arxiv.org/abs/2005.03837). CVPR, 2020.[[CODES](https://github.com/theFool32/PPBA)]
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]
 - Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. Universal Perturbation Attack Against Image Retrieval. [V1](https://arxiv.org/abs/1812.00552) and [V2](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. [[CODES](https://github.com/theFool32/UAP_retrieval)]
 - Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang and Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019. [[CODES](https://github.com/LynnHongLiu/Face-anti-spoofing)]

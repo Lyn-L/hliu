@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I got my Ph.D in 2020 from [Xiamen University](http://www.xmu.edu.cn/) under the supervion of [Prof.Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and adversarial deep learning.
+I received my doctoral degree from [Xiamen University](http://www.xmu.edu.cn/) in 2020 under the supervion of [Prof.Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and adversarial deep learning.
 
 ## Publications
 

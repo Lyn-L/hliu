@@ -20,7 +20,7 @@ I received my doctoral degree from [Xiamen University](http://www.xmu.edu.cn/) i
 
 ### Conference:
 - Xinshuai Dong, **Hong Liu**, Liujuan Cao, Rongrong Ji, Qixiang Ye, Qi Tian, Jianzhuang Liu. API-Net: Robust Generative Classifier via a Single Discriminator. ECCV 2020.
-- Hanlin Chen, Baochang Zhang, Song Xue, Xuan Gong, **Hong Liu**, Rongrong Ji, David Doermann. Anti-Bandit Neural Architecture Search for Model Defense. ECCV 2020.
+- Hanlin Chen, Baochang Zhang, Song Xue, Xuan Gong, **Hong Liu**, Rongrong Ji, David Doermann. [Anti-Bandit Neural Architecture Search for Model Defense](https://arxiv.org/abs/2008.00698). ECCV 2020.
 - Jie Li, Rongrong Ji, **Hong Liu**, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian. [Projection & Probability-Driven Black-Box Attack](https://arxiv.org/abs/2005.03837). CVPR, 2020.[[CODES](https://github.com/theFool32/PPBA)]
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]
 - Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. Universal Perturbation Attack Against Image Retrieval. [V1](https://arxiv.org/abs/1812.00552) and [V2](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. [[CODES](https://github.com/theFool32/UAP_retrieval)]

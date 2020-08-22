@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I will start to work in National Institute of Informatics, Japan, as a JSPS Fellowship Researcher working with Prof. Shin’ichi Satoh. I received my doctoral degree from Xiamen University in 2020 under the supervion of Prof. Rongrong Ji. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and adversarial deep learning.
+I will start to work at the National Institute of Informatics, Japan, as a JSPS Fellowship Researcher working with Prof. Shin’ichi Satoh. I received my doctoral degree from Xiamen University in 2020 under the supervision of Prof. Rongrong Ji. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
 
 ## Publications
 
@@ -16,7 +16,7 @@ I will start to work in National Institute of Informatics, Japan, as a JSPS Fell
 - Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Shen Chen, Qi Tian. [Hadamard Matrix Guided Online Hashing](http://link.springer.com/article/10.1007/s11263-020-01332-z). International Journal of Computer Vision, 2020. [[CODES](https://github.com/lmbxmu/mycode/tree/master/2020IJCV_HMOH)]
 - **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. [Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search](http://ieeexplore.ieee.org/document/8326558/). IEEE Trans. on Pattern Analysis and Machine Intelligence. Volume: 41, Issue: 4, 2019. 
 - Rongrong Ji; **Hong Liu**; Liujuan Cao; Di Liu; Yongjian Wu, and Feiyue Huang. [Towards Optimal Manifold Hashing via Discrete Locally Linear Embedding](http://ieeexplore.ieee.org/abstract/document/8000395/), IEEE Trans. on Image Processing, Volume 26, Issue 11, 2017. [[CODES](https://github.com/LynnHongLiu/DLLH)]
-- **Hong Liu**, Aiwen Jiang, Mingwen Wang and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
+- **Hong Liu**, Aiwen Jiang, Mingwen Wang, and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
 - Xinshuai Dong, **Hong Liu**, Liujuan Cao, Rongrong Ji, Qixiang Ye, Jianzhuang Liu, Qi Tian. [API-Net: Robust Generative Classifier via a Single Discriminator](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf). ECCV 2020.[[CODES](https://github.com/dongxinshuai/API-Net)]
@@ -24,7 +24,7 @@ I will start to work in National Institute of Informatics, Japan, as a JSPS Fell
 - Jie Li, Rongrong Ji, **Hong Liu**, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian. [Projection & Probability-Driven Black-Box Attack](https://arxiv.org/abs/2005.03837). CVPR, 2020.[[CODES](https://github.com/theFool32/PPBA)]
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]
 - Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. Universal Perturbation Attack Against Image Retrieval. [V1](https://arxiv.org/abs/1812.00552) and [V2](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. [[CODES](https://github.com/theFool32/UAP_retrieval)]
-- Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang and Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019. [[CODES](https://github.com/LynnHongLiu/Face-anti-spoofing)]
+- Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang, and Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019. [[CODES](https://github.com/LynnHongLiu/Face-anti-spoofing)]
 - Jie Hu, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Cheng Deng, Qi Tian. [Towards Visual Feature Translation](https://arxiv.org/abs/1812.00573). CVPR, 2019. [[CODES](https://github.com/hujiecpp/VisualFeatureTranslation)]
 - **Hong Liu**, Jie Li, Rongrong Ji, and Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](https://aaai.org/ojs/index.php/AAAI/article/view/4899/4772). AAAI, 2019. [[CODES](https://github.com/theFool32/BoMS)]
 - Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Yongjian Wu, and Yunsheng Wu. [Towards Optimal Discrete Online Hashing with Balanced Similarity](http://mac.xmu.edu.cn/rrji/papers/Towards%20Optimal%20Discrete%20Online%20Hashing%20with%20Balanced%20Similarity.pdf). AAAI, 2019. [[CODES](https://github.com/lmbxmu/mycode/tree/master/2019AAAI_BSODH)]
@@ -50,7 +50,7 @@ I will start to work in National Institute of Informatics, Japan, as a JSPS Fell
 **Conference reviewer or PC member**: AAAI'21, WACV'21, CVPR'20, ECCV'20, ACM MM'20, AAAI'20, ACCV'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
 
 ## Awards
-* **Outstanding Ph.D Graduate Student, 2020.**
+* **Outstanding Ph.D. Graduate Student, 2020.**
 
 * **National Scholarships, 2019.**
 

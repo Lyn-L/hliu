@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I will start to work at the National Institute of Informatics, Japan, as a JSPS Fellowship Researcher working with Prof. Shin’ichi Satoh. I received my doctoral degree from Xiamen University in 2020 under the supervision of Prof. Rongrong Ji. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
+I will start to work at the National Institute of Informatics, Japan, as a JSPS Fellowship Researcher. I received my doctoral degree from Xiamen University in 2020. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
 
 ## Publications
 

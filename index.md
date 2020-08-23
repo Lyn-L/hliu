@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Xiamen University](http://www.xmu.edu.cn/), China.
-
 ## About Me
 
 <img class="profile-picture" src="hongliu_2.JPG">

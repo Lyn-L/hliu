@@ -48,6 +48,8 @@ I will start to work at the National Institute of Informatics, Japan, as a JSPS 
 **Conference reviewer or PC member**: IJCAI'21, AAAI'21, WACV'21, CVPR'20, ECCV'20, ACM MM'20, AAAI'20, ACCV'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
 
 ## Awards
+* **JSPS Fellowship Researcher | 日本学術振興会外国人特別研究員， 2020** 
+
 * **Outstanding Ph.D. Graduate Student, 2020.**
 
 * **National Scholarships, 2019.**

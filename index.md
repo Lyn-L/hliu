@@ -43,7 +43,7 @@ I will work at the National Institute of Informatics, Japan, as a JSPS Fellowshi
 
 ## Activities
 
-**Journal Reviewer**: IEEE TIP, IEEE TNNLS, IEEE TKDE, IEEE TC, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
+**Journal Reviewer**: IEEE TIP, IEEE TNNLS, IEEE TKDE, IEEE TC, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
 **Conference reviewer or PC member**: CVPR'21, IJCAI'21, AAAI'21, WACV'21, CVPR'20, ECCV'20, ACM MM'20, AAAI'20, ACCV'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
 

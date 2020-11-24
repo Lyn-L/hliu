@@ -48,13 +48,15 @@ I will work at the National Institute of Informatics, Japan, as a JSPS Fellowshi
 **Conference reviewer or PC member**: CVPR'21, IJCAI'21, AAAI'21, WACV'21, CVPR'20, ECCV'20, ACM MM'20, AAAI'20, ACCV'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
 
 ## Awards
-* **Outstanding Ph.D. Graduate Student, 2020.**
+* **JSPS Fellowship, Japan, 2020**
 
-* **National Scholarships, 2019.**
+* **Outstanding Ph.D. Graduate Student, China, 2020.**
+
+* **National Scholarships, China, 2019.**
 
 * **Highligts in ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019.** (Our Team name is MAC-adv-group) ([Link](https://sites.google.com/qq.com/chalearnfacespoofingattackdete/))
 
-* **National Scholarships, 2017.**
+* **National Scholarships, China, 2017.**
 
 * **Highlights in MIREX 2015 Query-by-Humming, 2015.**  ([Link](http://www.music-ir.org/mirex/wiki/2015:MIREX2015_Results))
 

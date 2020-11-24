@@ -63,10 +63,6 @@ I will work at the National Institute of Informatics, Japan, as a JSPS Fellowshi
 
 ## Contact
 
-**Institution**: School of Information Science and Engineering, Xiamen University, China
-
-**Address**: Room 701, Administration Building #B, Haiyun Park, Xiamen University, 361005
-
 **E-mail**:  lynnliu.xmu[AT]gmail.com or lynnliu0207[AT]163.com or lynnliu[AT]stu.xmu.edu.cn
 
 ## Friends

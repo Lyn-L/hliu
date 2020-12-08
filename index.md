@@ -50,6 +50,8 @@ I will work at the National Institute of Informatics, Japan, as a JSPS Fellowshi
 **Conference reviewer or PC member**: CVPR'21, IJCAI'21, AAAI'21, WACV'21, CVPR'20, ECCV'20, ACM MM'20, AAAI'20, ACCV'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
 
 ## Awards
+* **CSIG Outstanding Doctoral Dissertation Award, China Society of Image and Graphics (CSIG), 2020**
+
 * **JSPS Fellowship, Japan, 2020**
 
 * **Outstanding Ph.D. Graduate Student, China, 2020.**

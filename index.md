@@ -67,7 +67,7 @@ I will work at the National Institute of Informatics, Japan, as a JSPS Fellowshi
 
 ## Contact
 
-**E-mail**:  lynnliu.xmu[AT]gmail.com or lynnliu0207[AT]163.com or lynnliu[AT]stu.xmu.edu.cn
+**E-mail**:  lynnliu.xmu[AT]gmail.com or hliu[AT]nii.ac.jp
 
 ## Friends
 

@@ -18,7 +18,7 @@ I will work at the National Institute of Informatics, Japan, as a JSPS Fellowshi
 
 ### Conference:
 - Ke Sun, **Hong Liu**, Qixiang Ye, Yue Gao, Jianzhuang Liu, Ling Shao, and Rongrong Ji. Domain General Face Forgery Detection by Learning to Weight. AAAI 2021.
-- Fengxiang Yang, Zhun Zhong **Hong Liu**, Zheng Wang, Zhiming Luo, Shaozi Li, Nicu Sebe, and Shin'ichi Satoh, Learning to Attack Real-World Models for Person Re-identification via Virtual-Guided Meta-Learning. AAAI 2021.
+- Fengxiang Yang, Zhun Zhong **Hong Liu**, Zheng Wang, Zhiming Luo, Shaozi Li, Nicu Sebe, and Shin'ichi Satoh, Learning to Attack Real-World Models for Person Re-identification via Virtual-Guided Meta-Learning. AAAI 2021.[[CODES](https://github.com/FlyingRoastDuck/MetaAttack_AAAI21)]
 - Xinshuai Dong, **Hong Liu**, Liujuan Cao, Rongrong Ji, Qixiang Ye, Jianzhuang Liu, and Qi Tian. [API-Net: Robust Generative Classifier via a Single Discriminator](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf). ECCV 2020.[[CODES](https://github.com/dongxinshuai/API-Net)]
 - Hanlin Chen, Baochang Zhang, Song Xue, Xuan Gong, **Hong Liu**, Rongrong Ji, and David Doermann. [Anti-Bandit Neural Architecture Search for Model Defense](https://arxiv.org/abs/2008.00698). ECCV 2020.[[CODES](https://github.com/bczhangbczhang/ABanditNAS)]   
 - Jie Li, Rongrong Ji, **Hong Liu**, Jianzhuang Liu, Bineng Zhong, Cheng Deng, and Qi Tian. [Projection & Probability-Driven Black-Box Attack](https://arxiv.org/abs/2005.03837). CVPR, 2020.[[CODES](https://github.com/theFool32/PPBA)]

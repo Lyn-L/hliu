@@ -17,7 +17,7 @@ I will work at the National Institute of Informatics, Japan, as a JSPS Fellowshi
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang, and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
-- Xiangshuai dong, **Hong Liu**, Rongrong Ji, Anh Tuan Luu. Towards Robustness Against Natural Language Word Substitutions. ICLR 2021. (Spotlight)
+- Xiangshuai dong, **Hong Liu**, Rongrong Ji, and Anh Tuan Luu. Towards Robustness Against Natural Language Word Substitutions. ICLR 2021. (Spotlight)
 - Ke Sun, **Hong Liu**, Qixiang Ye, Yue Gao, Jianzhuang Liu, Ling Shao, and Rongrong Ji. Domain General Face Forgery Detection by Learning to Weight. AAAI 2021.
 - Fengxiang Yang, Zhun Zhong **Hong Liu**, Zheng Wang, Zhiming Luo, Shaozi Li, Nicu Sebe, and Shin'ichi Satoh, Learning to Attack Real-World Models for Person Re-identification via Virtual-Guided Meta-Learning. AAAI 2021.[[CODES](https://github.com/FlyingRoastDuck/MetaAttack_AAAI21)]
 - Xinshuai Dong, **Hong Liu**, Liujuan Cao, Rongrong Ji, Qixiang Ye, Jianzhuang Liu, and Qi Tian. [API-Net: Robust Generative Classifier via a Single Discriminator](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf). ECCV 2020.[[CODES](https://github.com/dongxinshuai/API-Net)]

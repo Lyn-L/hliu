@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I am a Researcher at the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University in 2020, supervised by Dr. Rongrong JI. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
+I am a Researcher at the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University in 2020, supervised by Prof. Rongrong Ji. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
 
 ## Publications
 

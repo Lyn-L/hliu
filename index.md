@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I am a Researcher at the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University in 2020, supervised by Prof. Rongrong Ji. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
+I am a Researcher from the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University in 2020, supervised by Prof. Rongrong Ji. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
 
 ## Publications
 
@@ -48,7 +48,7 @@ I am a Researcher at the National Institute of Informatics, Japan, working with 
 
 **Journal Reviewer**: IEEE TIP, IEEE TNNLS, IEEE TBD, IEEE TKDE, IEEE TC, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
-**Conference reviewer or PC member**: CVPR'21, IJCAI'21, AAAI'21, WACV'21, CVPR'20, ECCV'20, ACM MM'20, AAAI'20, ACCV'20, WACV'20, ICCV'19, ACM MM'19, ICMR'18, IEEE-ICBK'18.
+**Conference reviewer or PC member**: CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
 
 ## Awards
 * **CSIG Outstanding Doctoral Dissertation Award, China Society of Image and Graphics (CSIG), China, 2020**

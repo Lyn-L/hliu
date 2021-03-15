@@ -72,7 +72,7 @@ I am a Researcher from the National Institute of Informatics, Japan, working wit
 
 ## Friends and Collaborators
 
-[Zhun Zhong](http://zhunzhong.site/), [Zhiming Luo](https://sites.google.com/view/zhimingluo), [Hao Ye](https://scholar.google.com/citations?hl=zh-CN&user=IUeasPoAAAAJ&view_op=list_works&sortby=pubdate), [Qingyuan Jiang](http://lamda.nju.edu.cn/jiangqy/), [Shengchuan Zhang](https://scholar.google.com/citations?user=GToqXScAAAAJ&hl=en), [Jie Gui](https://scholar.google.com/citations?hl=en&user=f8oE8NgAAAAJ&view_op=list_works&sortby=pubdate), [Zheng Wang](https://wangzwhu.github.io/home/), [Deng-ping Fan](http://dpfan.net/), [Nobukatsu Kajiura](https://nobukatsu-kajiura.github.io/)
+[Zhun Zhong](http://zhunzhong.site/), [Zhiming Luo](https://sites.google.com/view/zhimingluo), [Hao Ye](https://scholar.google.com/citations?hl=zh-CN&user=IUeasPoAAAAJ&view_op=list_works&sortby=pubdate), [Qingyuan Jiang](http://lamda.nju.edu.cn/jiangqy/), [Shengchuan Zhang](https://scholar.google.com/citations?user=GToqXScAAAAJ&hl=en), [Jie Gui](https://scholar.google.com/citations?hl=en&user=f8oE8NgAAAAJ&view_op=list_works&sortby=pubdate), [Zheng Wang](https://wangzwhu.github.io/home/), [Deng-ping Fan](http://dpfan.net/), [Nobukatsu Kajiura](https://nobukatsu-kajiura.github.io/), [Ziling Huang](https://scholar.google.com/citations?user=P3tiC3wAAAAJ&hl=zh-TW)
 
 ---
 <a href="http://s05.flagcounter.com/more/sw"><img src="https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>

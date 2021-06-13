@@ -48,9 +48,9 @@ I am a Researcher from the National Institute of Informatics, Japan, working wit
 
 ## Activities
 
-**Journal Reviewer**: IEEE TIP, IEEE TNNLS, IEEE TBD, IEEE TKDE, IEEE TC, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
+**Journal Reviewer**: IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TBD, IEEE TKDE, IEEE TC, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
-**Conference reviewer or PC member**: CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
+**Conference reviewer or PC member**: ICLR, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
 
 ## Awards
 * **CSIG Outstanding Doctoral Dissertation Award, China Society of Image and Graphics (CSIG), China, 2020**

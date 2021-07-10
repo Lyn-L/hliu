@@ -53,6 +53,8 @@ I am a Researcher from the National Institute of Informatics, Japan, working wit
 **Conference reviewer or PC member**: ICLR, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
 
 ## Awards
+* **Fujian Outstanding Doctoral Dissertation Award, Fujian, China, 2020**
+
 * **CSIG Outstanding Doctoral Dissertation Award, China Society of Image and Graphics (CSIG), China, 2020**
 
 * **JSPS Fellowship, Japan, 2020**

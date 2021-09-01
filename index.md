@@ -48,6 +48,8 @@ I am a Researcher from the National Institute of Informatics, Japan, working wit
 
 ## Activities
 
+Guest Editor of Electronics special issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
+
 **Journal Reviewer**: IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TBD, IEEE TKDE, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
 **Conference reviewer or PC member**: ICLR, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.

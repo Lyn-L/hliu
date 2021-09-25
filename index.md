@@ -11,7 +11,7 @@ I am a Researcher from the National Institute of Informatics, Japan, working wit
 ## Publications
 
 ### Journal:
-- Liujuan Cao, Huafeng Kuang, **Hong Liu**, Yan Wang, Baochang Zhang, Feiyue Huang, Yongjian Wu, and Rongrong Ji. Towards Robust Adversarial Training via Dual label Supervised and Geometry Constraint. Journal of Software. (In Chinese) [[CODES](https://github.com/SkyKuang/DGCAT)]
+- Liujuan Cao, Huafeng Kuang, **Hong Liu**, Yan Wang, Baochang Zhang, Feiyue Huang, Yongjian Wu, and Rongrong Ji. Towards Robust Adversarial Training via Dual label Supervised and Geometry Constraint. Journal of Software, 2021. (In Chinese) [[CODES](https://github.com/SkyKuang/DGCAT)]
 - Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Shen Chen, and Qi Tian. [Hadamard Matrix Guided Online Hashing](http://link.springer.com/article/10.1007/s11263-020-01332-z). International Journal of Computer Vision, 2020. [[CODES](https://github.com/lmbxmu/mycode/tree/master/2020IJCV_HMOH)]
 - **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. [Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search](http://ieeexplore.ieee.org/document/8326558/). IEEE Trans. on Pattern Analysis and Machine Intelligence. Volume: 41, Issue: 4, 2019. 
 - Rongrong Ji; **Hong Liu**; Liujuan Cao; Di Liu; Yongjian Wu, and Feiyue Huang. [Towards Optimal Manifold Hashing via Discrete Locally Linear Embedding](http://ieeexplore.ieee.org/abstract/document/8000395/), IEEE Trans. on Image Processing, Volume 26, Issue 11, 2017. [[CODES](https://github.com/LynnHongLiu/DLLH)]

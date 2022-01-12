@@ -40,7 +40,7 @@ I am a JSPS Fellowship Researcher from the National Institute of Informatics, Ja
 - **Hong Liu**, Rongrong Ji, Yongjian Wu, and Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12177). AAAI, 2016. [[CODES](https://github.com/LynnHongLiu/OEH)]
 
 ### Pre-print:
-- Deng-Ping Fan, Ziling Huang, Peng Zheng, **Hong Liu***, Xuebin Qin*, and Luc Van Gool. [Deep Facial Synthesis: A New Challenge](https://arxiv.org/abs/2112.15439). In Arxiv, 2022. [[CODES](https://github.com/DengPingFan/FSGAN)][[DATA](https://github.com/DengPingFan/FS2K)]
+- Deng-Ping Fan, Ziling Huang, Peng Zheng, **Hong Liu**, Xuebin Qin, and Luc Van Gool. [Deep Facial Synthesis: A New Challenge](https://arxiv.org/abs/2112.15439). In Arxiv, 2022. [[CODES](https://github.com/DengPingFan/FSGAN)][[DATA](https://github.com/DengPingFan/FS2K)]
 - Yixu Wang, Jie Li, **Hong Liu**, Yongjian Wu, Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack
 ](https://arxiv.org/abs/2105.00623). In Arxiv, 2021.
 - Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.

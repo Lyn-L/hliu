@@ -18,6 +18,7 @@ I am a JSPS Fellowship Researcher from the National Institute of Informatics, Ja
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang, and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
+- Zhengwei Yang, Xian Zhong, **Hong Liu**, Zhun Zhong, and Zheng Wang.Attentive Decoupling Network for Cloth-Changing Re-identification。 ICME， 2022.
 - Nobukatsu Kajiura, **Hong Liu**, Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021.
 - Xinshuai dong, Anh Tuan Luu, Rongrong Ji, and **Hong Liu**. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021. (Spotlight) [[CODES](https://github.com/dongxinshuai/ASCC)]
 - Ke Sun, **Hong Liu**, Qixiang Ye, Yue Gao, Jianzhuang Liu, Ling Shao, and Rongrong Ji. [Domain General Face Forgery Detection by Learning to Weight](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf). AAAI 2021. [[CODES](https://github.com/skJack/LTW)]

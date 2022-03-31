@@ -56,7 +56,7 @@ I am a JSPS Fellowship Researcher from the National Institute of Informatics, Ja
 
 **Journal Reviewer**: IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TBD, IEEE TKDE, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
-**Conference reviewer or PC member**: ICLR, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
+**Conference reviewer or PC member**: ICLR, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
 
 ## Awards
 * **Fujian Outstanding Doctoral Dissertation Award, Fujian, China, 2020**

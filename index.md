@@ -19,7 +19,7 @@ I am a JSPS Fellowship Researcher from the National Institute of Informatics, Ja
 
 ### Conference:
 - Zhengwei Yang, Xian Zhong, **Hong Liu**, Zhun Zhong, and Zheng Wang. Attentive Decoupling Network for Cloth-Changing Re-identification. ICME, 2022.
-- Nobukatsu Kajiura, **Hong Liu**, Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021. [[CODES](https://github.com/nobukatsu-kajiura/UR-COD)]
+- Nobukatsu Kajiura, **Hong Liu**, and Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021. [[CODES](https://github.com/nobukatsu-kajiura/UR-COD)]
 - Xinshuai dong, Anh Tuan Luu, Rongrong Ji, and **Hong Liu**. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021. (Spotlight) [[CODES](https://github.com/dongxinshuai/ASCC)]
 - Ke Sun, **Hong Liu**, Qixiang Ye, Yue Gao, Jianzhuang Liu, Ling Shao, and Rongrong Ji. [Domain General Face Forgery Detection by Learning to Weight](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf). AAAI 2021. [[CODES](https://github.com/skJack/LTW)]
 - Fengxiang Yang, Zhun Zhong **Hong Liu**, Zheng Wang, Zhiming Luo, Shaozi Li, Nicu Sebe, and Shin'ichi Satoh, [Learning to Attack Real-World Models for Person Re-identification via Virtual-Guided Meta-Learning](https://www.aaai.org/AAAI21Papers/AAAI-578.YangF.pdf). AAAI 2021.[[CODES](https://github.com/FlyingRoastDuck/MetaAttack_AAAI21)]
@@ -42,9 +42,9 @@ I am a JSPS Fellowship Researcher from the National Institute of Informatics, Ja
 
 ### Pre-print:
 - Deng-Ping Fan, Ziling Huang, Peng Zheng, **Hong Liu**, Xuebin Qin, and Luc Van Gool. [Deep Facial Synthesis: A New Challenge](https://arxiv.org/abs/2112.15439). In Arxiv, 2022. [[CODES](https://github.com/DengPingFan/FSGAN)][[DATA](https://github.com/DengPingFan/FS2K)]
-- Yixu Wang, Jie Li, **Hong Liu**, Yongjian Wu, Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack
+- Yixu Wang, Jie Li, **Hong Liu**, Yongjian Wu, and Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack
 ](https://arxiv.org/abs/2105.00623). In Arxiv, 2021.
-- Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
+- Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, and Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
 
 ## Working Experiences
 

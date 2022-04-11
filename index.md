@@ -59,6 +59,9 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 **Conference reviewer or PC member**: ICLR, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
 
 ## Awards
+
+* **Top-100 Chinese New Stars in Artificial Intelligence by Baidu Scholar, China, 2021**
+
 * **Fujian Outstanding Doctoral Dissertation Award, Fujian, China, 2020**
 
 * **CSIG Outstanding Doctoral Dissertation Award, China Society of Image and Graphics (CSIG), China, 2020**

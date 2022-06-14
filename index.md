@@ -11,6 +11,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 ## Publications
 
 ### Journal:
+- Deng-Ping Fan, Ziling Huang, Peng Zheng, **Hong Liu**, Xuebin Qin, and Luc Van Gool. [Deep Facial Synthesis: A New Challenge](https://arxiv.org/abs/2112.15439). Machine Intelligence Research, 2022. [[CODES](https://github.com/DengPingFan/FSGAN)][[DATA](https://github.com/DengPingFan/FS2K)]
 - Liujuan Cao, Huafeng Kuang, **Hong Liu**, Yan Wang, Baochang Zhang, Feiyue Huang, Yongjian Wu, and Rongrong Ji. Towards Robust Adversarial Training via Geometry Constraint and Dual label Supervised. Journal of Software, 2021. (In Chinese) [[CODES](https://github.com/SkyKuang/DGCAT)]
 - Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Shen Chen, and Qi Tian. [Hadamard Matrix Guided Online Hashing](http://link.springer.com/article/10.1007/s11263-020-01332-z). International Journal of Computer Vision, 2020. [[CODES](https://github.com/lmbxmu/mycode/tree/master/2020IJCV_HMOH)]
 - **Hong Liu**, Rongrong Ji, Jingdong Wang, and Chunhua Shen. [Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search](http://ieeexplore.ieee.org/document/8326558/). IEEE Trans. on Pattern Analysis and Machine Intelligence. Volume: 41, Issue: 4, 2019. 
@@ -41,7 +42,6 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 - **Hong Liu**, Rongrong Ji, Yongjian Wu, and Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12177). AAAI, 2016. [[CODES](https://github.com/LynnHongLiu/OEH)]
 
 ### Pre-print:
-- Deng-Ping Fan, Ziling Huang, Peng Zheng, **Hong Liu**, Xuebin Qin, and Luc Van Gool. [Deep Facial Synthesis: A New Challenge](https://arxiv.org/abs/2112.15439). In Arxiv, 2022. [[CODES](https://github.com/DengPingFan/FSGAN)][[DATA](https://github.com/DengPingFan/FS2K)]
 - Yixu Wang, Jie Li, **Hong Liu**, Yongjian Wu, and Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack
 ](https://arxiv.org/abs/2105.00623). In Arxiv, 2021.
 - Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, and Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.

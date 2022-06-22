@@ -9,7 +9,8 @@ layout: default
 I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員) from the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
 
 ## News
-[Call for Papers] Submission Deadline: Oct. 15, 2022. [Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.](https://www.mdpi.com/journal/electronics/special_issues/multimedia_AMR)
+- [Call for Papers] Submission Deadline: Oct. 15, 2022. [Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.](https://www.mdpi.com/journal/electronics/special_issues/multimedia_AMR)
+- One paper accepted by MIR.
 
 ## Publications
 
@@ -55,11 +56,11 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 ## Activities
 
-**Guest Editor** of Electronics special issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
+- **Guest Editor** of Electronics special issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
 
-**Journal Reviewer**: IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TBD, IEEE TKDE, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
+- **Journal Reviewer**: IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TBD, IEEE TKDE, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
-**Conference reviewer or PC member**: ICLR, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
+- **Conference reviewer or PC member**: ICLR, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI, WACV, ACM MM, ACCV, ICMR, ICBK.
 
 ## Awards
 

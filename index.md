@@ -10,7 +10,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 ## News
 - [Call for Papers] Submission Deadline: Oct. 15, 2022. [Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.](https://www.mdpi.com/journal/electronics/special_issues/multimedia_AMR)
-- One paper accepted by MIR.
+- One paper is accepted to the MIR.
 
 ## Publications
 

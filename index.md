@@ -23,6 +23,9 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang, and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
+- Ke Sun, **Hong Liu**, Taiping Yao, Xiaoshuai Sun, Shen Chen, Shouhong Ding, and Rongrong Ji. An Information Theoretic Approach forAttention-Driven Face Forgery Detection. ECCV 2022.
+- Yixu Wang, Jie Li, **Hong Liu**, Yongjian Wu, and Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack
+](https://arxiv.org/abs/2105.00623). ECCV, 2022.
 - Zhengwei Yang, Xian Zhong, **Hong Liu**, Zhun Zhong, and Zheng Wang. Attentive Decoupling Network for Cloth-Changing Re-identification. ICME, 2022.
 - Nobukatsu Kajiura, **Hong Liu**, and Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021. [[CODES](https://github.com/nobukatsu-kajiura/UR-COD)]
 - Xinshuai dong, Anh Tuan Luu, Rongrong Ji, and **Hong Liu**. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021. (Spotlight) [[CODES](https://github.com/dongxinshuai/ASCC)]
@@ -46,8 +49,6 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 - **Hong Liu**, Rongrong Ji, Yongjian Wu, and Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12177). AAAI, 2016. [[CODES](https://github.com/LynnHongLiu/OEH)]
 
 ### Pre-print:
-- Yixu Wang, Jie Li, **Hong Liu**, Yongjian Wu, and Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack
-](https://arxiv.org/abs/2105.00623). In Arxiv, 2021.
 - Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, and Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
 
 ## Working Experiences

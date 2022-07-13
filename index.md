@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員) from the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University. My research interests are in machine learning and computer vision, especially in hashing-based machine learning, Riemannian-based machine learning, and deep adversarial learning.
+I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員) from the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University. My research interests are in machine learning and computer vision, especially in machine learning,  deep adversarial learning, and ML Safty & Reliability.
 
 ## News
 - Two papers were accepted to the ECCV 2022.

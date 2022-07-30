@@ -71,7 +71,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 * **CSIG Outstanding Doctoral Dissertation Award, China Society of Image and Graphics (CSIG), China, 2020**
 
-* **JSPS Fellowship, Japan, 2020**
+* **Japan Society for the Promotion of Science (JSPS) Fellowship, Japan, 2020**
 
 * **Outstanding Ph.D. Graduate Student, Xiamen University, China, 2020.**
 

@@ -75,15 +75,6 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 * **Outstanding Ph.D. Graduate Student, Xiamen University, China, 2020.**
 
-* **National Scholarships, China, 2019.**
-
-* **Highligts in ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019.** (Our Team name is MAC-adv-group) ([Link](https://sites.google.com/qq.com/chalearnfacespoofingattackdete/))
-
-* **National Scholarships, China, 2017.**
-
-* **Highlights in MIREX 2015 Query-by-Humming, 2015.**  ([Link](http://www.music-ir.org/mirex/wiki/2015:MIREX2015_Results))
-
-
 ## Contact
 
 **E-mail**:  lynnliu.xmu[AT]gmail.com or hliu[AT]nii.ac.jp

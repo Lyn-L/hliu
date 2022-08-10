@@ -9,6 +9,7 @@ layout: default
 I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員) from the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University. My research interests are in machine learning and computer vision, especially in deep learning theory and ML safty/reliability.
 
 ## News
+- One paper was accepted to the IEEE TPAMI 2022.
 - Two papers were accepted to the ECCV 2022.
 - [Call for Papers] Submission Deadline: Oct. 15, 2022. [Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.](https://www.mdpi.com/journal/electronics/special_issues/multimedia_AMR)
 - One paper was accepted to the MIR 2022.
@@ -16,6 +17,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 ## Publications
 
 ### Journal:
+-Fengxiang Yang, Juanjuan Weng, Zhun Zhong, **Hong Liu**, Zheng Wang, Zhiming Luo*, Donglin Cao, Shaozi Li, Shin’ichi Satoh, Nicu Sebe, Towards Robust Person Re-identification by Defending Against Universal Attackers,  IEEE Transactions on Pattern Analysis and Machine Intelligence. 2022.
 - Deng-Ping Fan, Ziling Huang, Peng Zheng, **Hong Liu**, Xuebin Qin, and Luc Van Gool. [Deep Facial Synthesis: A New Challenge](https://link.springer.com/article/10.1007/s11633-022-1349-9). Machine Intelligence Research, 2022. [[CODES](https://github.com/DengPingFan/FSGAN)][[DATA](https://github.com/DengPingFan/FS2K)][[ToolBox](https://github.com/DengPingFan/FS2KToolbox)][[Awesome-List](https://github.com/DengPingFan/FaceSketch-Awesome-List)]
 - Liujuan Cao, Huafeng Kuang, **Hong Liu**, Yan Wang, Baochang Zhang, Feiyue Huang, Yongjian Wu, and Rongrong Ji. Towards Robust Adversarial Training via Geometry Constraint and Dual label Supervised. Journal of Software, 2021. (In Chinese) [[CODES](https://github.com/SkyKuang/DGCAT)]
 - Mingbao Lin, Rongrong Ji, **Hong Liu**, Xiaoshuai Sun, Shen Chen, and Qi Tian. [Hadamard Matrix Guided Online Hashing](http://link.springer.com/article/10.1007/s11263-020-01332-z). International Journal of Computer Vision, 2020. [[CODES](https://github.com/lmbxmu/mycode/tree/master/2020IJCV_HMOH)]

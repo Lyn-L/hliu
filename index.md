@@ -28,7 +28,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 ### Conference:
 - Ke Sun, **Hong Liu**, Taiping Yao, Xiaoshuai Sun, Shen Chen, Shouhong Ding, and Rongrong Ji. An Information Theoretic Approach forAttention-Driven Face Forgery Detection. ECCV 2022.
 - Yixu Wang, Jie Li, **Hong Liu**, Yan Wang, Yongjian Wu, Feiyue Huang, and Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack](https://arxiv.org/abs/2105.00623). ECCV, 2022.
-- Zhengwei Yang, Xian Zhong, **Hong Liu**, Zhun Zhong, and Zheng Wang. Attentive Decoupling Network for Cloth-Changing Re-identification. ICME, 2022.
+- Zhengwei Yang, Xian Zhong, **Hong Liu**, Zhun Zhong, and Zheng Wang. [Attentive Decoupling Network for Cloth-Changing Re-identification](https://ieeexplore.ieee.org/document/9859851). ICME, 2022.
 - Nobukatsu Kajiura, **Hong Liu**, and Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021. [[CODES](https://github.com/nobukatsu-kajiura/UR-COD)]
 - Xinshuai dong, Anh Tuan Luu, Rongrong Ji, and **Hong Liu**. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021. (Spotlight) [[CODES](https://github.com/dongxinshuai/ASCC)]
 - Ke Sun, **Hong Liu**, Qixiang Ye, Yue Gao, Jianzhuang Liu, Ling Shao, and Rongrong Ji. [Domain General Face Forgery Detection by Learning to Weight](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf). AAAI 2021. [[CODES](https://github.com/skJack/LTW)]

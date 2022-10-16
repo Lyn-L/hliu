@@ -28,8 +28,8 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang, and Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
-- Ke Sun, **Hong Liu**, Taiping Yao, Xiaoshuai Sun, Shen Chen, Shouhong Ding, and Rongrong Ji. An Information Theoretic Approach for Attention-Driven Face Forgery Detection. ECCV 2022.
-- Yixu Wang, Jie Li, **Hong Liu**, Yan Wang, Yongjian Wu, Feiyue Huang, and Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack](https://arxiv.org/abs/2105.00623). ECCV, 2022.
+- Ke Sun, **Hong Liu**, Taiping Yao, Xiaoshuai Sun, Shen Chen, Shouhong Ding, and Rongrong Ji. [An Information Theoretic Approach for Attention-Driven Face Forgery Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740105.pdf). ECCV 2022.
+- Yixu Wang, Jie Li, **Hong Liu**, Yan Wang, Yongjian Wu, Feiyue Huang, and Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650188.pdf). ECCV, 2022.
 - Zhengwei Yang, Xian Zhong, **Hong Liu**, Zhun Zhong, and Zheng Wang. [Attentive Decoupling Network for Cloth-Changing Re-identification](https://ieeexplore.ieee.org/document/9859851). ICME, 2022.
 - Nobukatsu Kajiura, **Hong Liu**, and Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021. [[CODES](https://github.com/nobukatsu-kajiura/UR-COD)]
 - Xinshuai dong, Anh Tuan Luu, Rongrong Ji, and **Hong Liu**. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021. (Spotlight) [[CODES](https://github.com/dongxinshuai/ASCC)]

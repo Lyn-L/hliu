@@ -48,6 +48,8 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 ### Pre-print:
 - Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, and Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
 
+- Zelong Zeng, Fan Yang, **Hong Liu**, Shin'ichi Satoh. [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566). In Arxiv, 2022.
+
 <!-- ## Working Experiences
 
 - 2015.07 - 2015.09, Research Intern, [Tencent Youtu Lab](https://bestimage.qq.com/). -->

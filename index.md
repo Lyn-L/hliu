@@ -58,7 +58,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 - **Guest Editor** of Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
 
-- **Journal Reviewer**: ACM TOPS, IJCV, IEEE TIP, IEEE TKDE, IEEE TNNLS, IEEE TMM, IEEE TBD, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
+- **Journal Reviewer**:  IJCV, IEEE TIP, ACM TOPS, IEEE TMM, IEEE TKDE, IEEE TBD, IEEE TNNLS, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
 
 - **Conference reviewer or PC member**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ICASSP, ACM MM, ACCV, ICMR.
 

@@ -66,7 +66,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 ## Activities
 
-* ACCV 2022.
+* MLCSA workshop, ACCV 2022. "Evaluation of Person Re-identification Robustness: Attack and Defense"
 
 * Symposium: Excellent Doctoral Forum, ICIG 2021. "Adversarial Robustness in Computer Vision: Attack, Defense, and Beyond"
 

@@ -64,6 +64,12 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 - **Conference reviewer or PC member**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ICASSP, ACM MM, ACCV, ICMR.
 
+## Activities
+
+* ACCV 2022.
+
+* Symposium: Excellent Doctoral Forum, ICIG 2021. "Adversarial Robustness in Computer Vision: Attack, Defense, and Beyond"
+
 ## Awards
 
 * **Top-100 Chinese New Stars in Artificial Intelligence by Baidu Scholar, China, 2021**

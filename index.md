@@ -56,20 +56,6 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 - 2015.07 - 2015.09, Research Intern, [Tencent Youtu Lab](https://bestimage.qq.com/). -->
 
-## Activities
-
-- **Guest Editor** of Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
-
-- **Journal Reviewer**:  IJCV, IEEE TIP, ACM TOPS, IEEE TMM, IEEE TKDE, IEEE TBD, IEEE TNNLS, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
-
-- **Conference reviewer or PC member**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ICASSP, ACM MM, ACCV, ICMR.
-
-## Activities
-
-* MLCSA workshop, ACCV 2022. "Evaluation of Person Re-identification Robustness: Attack and Defense"
-
-* Symposium: Excellent Doctoral Forum, ICIG 2021. "Adversarial Robustness in Computer Vision: Attack, Defense, and Beyond"
-
 ## Awards
 
 * **Top-100 Chinese New Stars in Artificial Intelligence by Baidu Scholar, China, 2021**
@@ -81,6 +67,21 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 * **Fujian Outstanding Doctoral Dissertation Award, Fujian, China, 2020**
 
 * **Outstanding Ph.D. Graduate Student, Xiamen University, China, 2020.**
+
+## Activities
+
+- **Guest Editor** of Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
+
+- **Journal Reviewer**:  IJCV, IEEE TIP, ACM TOPS, IEEE TMM, IEEE TKDE, IEEE TBD, IEEE TNNLS, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
+
+- **Conference reviewer or PC member**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ICASSP, ACM MM, ACCV, ICMR.
+
+## Talks
+
+* MLCSA workshop, ACCV 2022. "Evaluation of Person Re-identification Robustness: Attack and Defense"
+
+* Symposium: Excellent Doctoral Forum, ICIG 2021. "Adversarial Robustness in Computer Vision: Attack, Defense, and Beyond"
+
 
 ## Contact
 

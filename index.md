@@ -58,7 +58,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 ## Honors and Awards
 
-* Notable Reviewer, ICLR 2023.
+* Notable Reviewer, ICLR 2023
 
 * Top-100 Chinese New Stars in Artificial Intelligence by Baidu Scholar, China, 2021
 
@@ -68,7 +68,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 * Fujian Outstanding Doctoral Dissertation Award, Fujian, China, 2020
 
-* Outstanding Ph.D. Graduate Student, Xiamen University, China, 2020.
+* Outstanding Ph.D. Graduate Student, Xiamen University, China, 2020
 
 ## Activities
 

@@ -80,7 +80,11 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 ## Talks
 
-* MLCSA workshop, ACCV 2022. "Evaluation of Person Re-identification Robustness: Attack and Defense"
+* "Understanding Adversarial Training via Model Calibration", Xiamen University, 2023.
+
+* "Evaluation of Person Re-identification Robustness: Attack and Defense" MLCSA workshop, ACCV 2022.
+
+* "Deep Facial Synthesis: A New Challenge", Chinese Academy of Sciences Automation Institute, 2022.
 
 * Symposium: Excellent Doctoral Forum, ICIG 2021. "Adversarial Robustness in Computer Vision: Attack, Defense, and Beyond"
 

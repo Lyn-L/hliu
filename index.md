@@ -10,7 +10,7 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 ## News
 
-We are organize an IJCV Special Issue: Open-World Visual Recognition. [[Website](https://ijcvsi23.github.io/)]
+We are organizing an IJCV Special Issue: Open-World Visual Recognition. [[Website](https://ijcvsi23.github.io/)]
 
 ## Publications
 

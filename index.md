@@ -8,6 +8,10 @@ layout: default
 
 I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員) from the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh. I received my doctoral degree from Xiamen University. My research interests are in machine learning and computer vision, especially in deep learning theory, AI Ethics, and ML safty/reliability.
 
+## News
+
+We are organize an IJCV Special Issue: Open-World Visual Recognition. [[Website](https://ijcvsi23.github.io/)]
+
 ## Publications
 
 ### Journal:

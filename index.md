@@ -76,6 +76,8 @@ We are organizing an IJCV Special Issue: Open-World Visual Recognition. [[Websit
 
 ## Activities
 
+- **Guest Editor** of IJCV Special Issue on Open-World Visual Recognition.
+
 - **Guest Editor** of Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
 
 - **Journal Reviewer**:  IJCV, IEEE TIP, ACM TOPS, IEEE TMM, IEEE TKDE, IEEE TBD, IEEE TNNLS, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.

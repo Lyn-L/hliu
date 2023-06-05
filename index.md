@@ -12,6 +12,8 @@ I am a JSPS Fellowship Researcher (日本学術振興会外国人特別研究員
 
 We are organizing an IJCV Special Issue: Open-World Visual Recognition. [[Website](https://ijcvsi23.github.io/)]
 
+We are organizing an Electronics Special Issue: Adversarial Machine Learning: Attacks, Defenses and Security. [[Website](https://www.mdpi.com/journal/electronics/special_issues/Adversarial_Machine_Learning)]
+
 ## Publications
 
 ### Journal:
@@ -78,6 +80,8 @@ We are organizing an IJCV Special Issue: Open-World Visual Recognition. [[Websit
 ## Activities
 
 - **Guest Editor** of IJCV Special Issue on Open-World Visual Recognition.
+
+- **Guest Editor** of Electronics Special Issue on Adversarial Machine Learning: Attacks, Defenses and Security
 
 - **Guest Editor** of Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
 

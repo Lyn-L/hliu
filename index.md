@@ -59,9 +59,9 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 
 - Zelong Zeng, Fan Yang, **Hong Liu**, Shin'ichi Satoh. [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566). In Arxiv, 2022. [[CODES](https://github.com/ZelongZeng/OBD-SD_Pytorch)]
 
-- Hong Liu. Sparse-Inductive Generative Adversarial Hashing for Nearest Neighbor Search. In Arxiv 2023.
+- **Hong Liu#**. Sparse-Inductive Generative Adversarial Hashing for Nearest Neighbor Search. In Arxiv 2023.
 
-- Hong Liu, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. MIRU, 2023.
+- **Hong Liu#**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. MIRU, 2023.
 
 
 <!-- ## Working Experiences

@@ -17,7 +17,7 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 ## Publications
 
 ### Journal:
-- Zhengwei Yang, Xian Zhong, Zhun Zhong, **Hong Liu**, Zheng Wang, and Shin’ichi Satoh. [Win-Win by Competition: Auxiliary-Free Cloth-Changing Person Re-Identification](https://ieeexplore.ieee.org/document/10130745). IEEE Trans. on Image Processing, 2023.
+- Zhengwei Yang, Xian Zhong, Zhun Zhong, **Hong Liu**, Zheng Wang, and Shin’ichi Satoh. [Win-Win by Competition: Auxiliary-Free Cloth-Changing Person Re-Identification](https://ieeexplore.ieee.org/document/10130745). IEEE Trans. on Image Processing, 2023. [[CODES](https://github.com/BoomShakaY/Win-CCReID)]
 - **Hong Liu**, Zhun Zhong, Nicu Sebe, and Shin'ichi Satoh. [Mitigating Robust Overfitting via Self-Residual-Calibration Regularization](https://doi.org/10.1016/j.artint.2023.103877). Artificial Intelligence, 2023. [[CODES](https://github.com/LynnHongLiu/AIJ2023-SRC)] 
 - Yixu Wang, Jie Li, **Hong Liu**, Yan Wang, Mingliang Xu, Yongjian Wu, and Rongrong Ji. [Model Stealing Attack based on Sampling and Weighting](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0029;JSESSIONID=0ab4238d-9a39-4270-8a5a-5b1da35ef0b1). SCIENCE CHINA Information Sciences, 2022. (In Chinese)
 - Fengxiang Yang, Juanjuan Weng, Zhun Zhong, **Hong Liu**, Zheng Wang, Zhiming Luo, Donglin Cao, Shaozi Li, Shin’ichi Satoh, and Nicu Sebe. [Towards Robust Person Re-identification by Defending Against Universal Attackers](https://ieeexplore.ieee.org/document/9858024). IEEE Transactions on Pattern Analysis and Machine Intelligence. 2022. [[CODES](https://github.com/WJJLL/Meta-Attack-Defense)]
@@ -58,6 +58,11 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 - Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, and Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
 
 - Zelong Zeng, Fan Yang, **Hong Liu**, Shin'ichi Satoh. [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566). In Arxiv, 2022. [[CODES](https://github.com/ZelongZeng/OBD-SD_Pytorch)]
+
+- Hong Liu. Sparse-Inductive Generative Adversarial Hashing for Nearest Neighbor Search. In Arxiv 2023.
+
+- Hong Liu, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. MIRU, 2023.
+
 
 <!-- ## Working Experiences
 

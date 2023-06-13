@@ -55,13 +55,16 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 - **Hong Liu**, Rongrong Ji, Yongjian Wu, and Wei Liu. [Towards Optimal Binary Code Learning via Ordinal Embedding](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12177). AAAI, 2016. [[CODES](https://github.com/LynnHongLiu/OEH)]
 
 ### Pre-print:
-- Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, and Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
+
+- **Hong Liu**, Shin’ichi Satoh. Rethinking Adversarial Training with A Simple Baseline. In Arxiv, 2023.
+
+- **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. MIRU, 2023.
+
+- **Hong Liu**. [Sparse-Inductive Generative Adversarial Hashing for Nearest Neighbor Search](https://arxiv.org/abs/2306.06928). In Arxiv 2023.
 
 - Zelong Zeng, Fan Yang, **Hong Liu**, Shin'ichi Satoh. [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566). In Arxiv, 2022. [[CODES](https://github.com/ZelongZeng/OBD-SD_Pytorch)]
 
-- **Hong Liu**. Sparse-Inductive Generative Adversarial Hashing for Nearest Neighbor Search. In Arxiv 2023.
-
-- **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. MIRU, 2023.
+- Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, and Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
 
 
 <!-- ## Working Experiences

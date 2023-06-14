@@ -56,7 +56,7 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 
 ### Pre-print:
 
-- **Hong Liu**, Shin’ichi Satoh. Rethinking Adversarial Training with A Simple Baseline. In Arxiv, 2023.
+- **Hong Liu**, Shin’ichi Satoh. [Rethinking Adversarial Training with A Simple Baseline](http://arxiv.org/abs/2306.07613). In Arxiv, 2023.
 
 - **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. MIRU, 2023.
 

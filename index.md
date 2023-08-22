@@ -17,7 +17,7 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 ## Publications
 
 ### Journal:
-- Huafeng Kuang, **Hong Liu**, Yongjian Wu, and Rongrong Ji. Semantically Consistent Visual Representation for Adversarial Robustness. IEEE Trans. on Information Forensics and Security, 2023.
+- Huafeng Kuang, **Hong Liu**, Yongjian Wu, and Rongrong Ji. [Semantically Consistent Visual Representation for Adversarial Robustness](https://ieeexplore.ieee.org/document/10225321). IEEE Trans. on Information Forensics and Security, 2023.
 - Zhengwei Yang, Xian Zhong, Zhun Zhong, **Hong Liu**, Zheng Wang, and Shin’ichi Satoh. [Win-Win by Competition: Auxiliary-Free Cloth-Changing Person Re-Identification](https://ieeexplore.ieee.org/document/10130745). IEEE Trans. on Image Processing, 2023. [[CODES](https://github.com/BoomShakaY/Win-CCReID)]
 - **Hong Liu**, Zhun Zhong, Nicu Sebe, and Shin'ichi Satoh. [Mitigating Robust Overfitting via Self-Residual-Calibration Regularization](https://doi.org/10.1016/j.artint.2023.103877). Artificial Intelligence, 2023. [[CODES](https://github.com/LynnHongLiu/AIJ2023-SRC)] 
 - Yixu Wang, Jie Li, **Hong Liu**, Yan Wang, Mingliang Xu, Yongjian Wu, and Rongrong Ji. [Model Stealing Attack based on Sampling and Weighting](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0029;JSESSIONID=0ab4238d-9a39-4270-8a5a-5b1da35ef0b1). SCIENCE CHINA Information Sciences, 2022. (In Chinese)

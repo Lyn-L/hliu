@@ -31,7 +31,7 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 - **Hong Liu**, Aiwen Jiang, Mingwen Wang, Jianyi Wan.[Local Similarity Preserved Hashing Learning via Markov Graph for Eﬃcient Similarity Search.](http://www.sciencedirect.com/science/article/pii/S0925231215001538) Neurocomputing, 159, 2015.
 
 ### Conference:
-- Huafeng Kuang, **Hong Liu**, Yongjian Wu, Shin'ichi Satoh, Rongrong Ji. Improving Adversarial Robustness via Information Bottleneck Distillation. NeurIPS, 2023.
+- Huafeng Kuang, **Hong Liu**, Yongjian Wu, Shin'ichi Satoh, Rongrong Ji. Improving Adversarial Robustness via Information Bottleneck Distillation. NeurIPS, 2023. (Project lead)
 - Zhenglin Zhou#, Huaxia Li#, **Hong Liu#**, Nanyang Wang, Gang Yu, Rongrong Ji. [STAR Loss: Reducing Semantic Ambiguity in Facial Landmark Detection](https://lynnhongliu.github.io/hliu/CVPR_23_STAR_Loss__Reducing_Semantic_Ambiguity_in_Improving_Facial_Landmark.pdf). CVPR, 2023. [[CODES](https://github.com/ZhenglinZhou/STAR)] (# contribute equally)
 - Ke Sun, **Hong Liu**, Taiping Yao, Xiaoshuai Sun, Shen Chen, Shouhong Ding, Rongrong Ji. [An Information Theoretic Approach for Attention-Driven Face Forgery Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740105.pdf). ECCV, 2022. [[CODES](https://github.com/skJack/Code-for-SIA)]
 - Yixu Wang, Jie Li, **Hong Liu**, Yan Wang, Yongjian Wu, Feiyue Huang, Rongrong Ji. [Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650188.pdf). ECCV, 2022. [[CODES](https://github.com/yxwang-10/Blackbox-Dissector)]

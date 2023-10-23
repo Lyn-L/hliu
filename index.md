@@ -17,7 +17,7 @@ We are organizing an Electronics Special Issue: Adversarial Machine Learning: At
 ## Publications
 
 ### Journal:
-- Hong Liu, Yongqing Sun, Yukihiro Bandoh, Masaki Kitahara, Shin’ichi Satoh. Deep Counterfactual Representation Learning for Visual Recognition against Weather Corruptions. IEEE Trans. on Multimedia, 2023.
+- **Hong Liu**, Yongqing Sun, Yukihiro Bandoh, Masaki Kitahara, Shin’ichi Satoh. Deep Counterfactual Representation Learning for Visual Recognition against Weather Corruptions. IEEE Trans. on Multimedia, 2023.
 - Huafeng Kuang, **Hong Liu**, Yongjian Wu, Rongrong Ji. [Semantically Consistent Visual Representation for Adversarial Robustness](https://ieeexplore.ieee.org/document/10225321). IEEE Trans. on Information Forensics and Security, 2023.
 - Zhengwei Yang, Xian Zhong, Zhun Zhong, **Hong Liu**, Zheng Wang, Shin’ichi Satoh. [Win-Win by Competition: Auxiliary-Free Cloth-Changing Person Re-Identification](https://ieeexplore.ieee.org/document/10130745). IEEE Trans. on Image Processing, 2023. [[CODES](https://github.com/BoomShakaY/Win-CCReID)]
 - **Hong Liu**, Zhun Zhong, Nicu Sebe, Shin'ichi Satoh. [Mitigating Robust Overfitting via Self-Residual-Calibration Regularization](https://doi.org/10.1016/j.artint.2023.103877). Artificial Intelligence, 2023. [[CODES](https://github.com/LynnHongLiu/AIJ2023-SRC)] 

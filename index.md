@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I am a Researcher from the National Institute of Informatics, Japan, working with Prof. Shin'ichi Satoh.
+I will be joining the Institute for Datability Science, Osaka University in 2024. I am currently a Researcher at the National Institute of Informatics.
 I received my doctoral degree from Xiamen University. My research interests are in machine learning and computer vision, especially in ML safety/reliability, deep learning theory, multimodal ML, AI Ethics, and large-scale image retrieval.
 
 ## News

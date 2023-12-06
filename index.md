@@ -8,12 +8,6 @@ layout: default
 
 I am currently a Researcher at the National Institute of Informatics. I received my doctoral degree from Xiamen University. My research interests are in machine learning and computer vision, especially in ML safety/reliability, deep learning theory, multimodal ML, AI Ethics, and large-scale image retrieval.
 
-## News
-
-We are organizing an IJCV Special Issue: Open-World Visual Recognition. [[Website](https://ijcvsi23.github.io/)]
-
-We are organizing an Electronics Special Issue: Adversarial Machine Learning: Attacks, Defenses, and Security. [[Website](https://www.mdpi.com/journal/electronics/special_issues/Adversarial_Machine_Learning)]
-
 ## Publications
 
 ### Journal:

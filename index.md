@@ -13,7 +13,7 @@ I will join the Institute for Datability Science at Osaka University in 2024. I 
 ### AI Safty/Reliability:
 
 - **Hong Liu**, Zhun Zhong, Nicu Sebe, Shin'ichi Satoh. [Mitigating Robust Overfitting via Self-Residual-Calibration Regularization](https://doi.org/10.1016/j.artint.2023.103877). Artificial Intelligence, 2023. [[CODES](https://github.com/LynnHongLiu/AIJ2023-SRC)]
-- **Hong Liu**, Yongqing Sun, Yukihiro Bandoh, Masaki Kitahara, Shin’ichi Satoh. [Deep Counterfactual Representation Learning for Visual Recognition against Weather Corruptions](https://ieeexplore.ieee.org/document/10314032). IEEE Trans. on Multimedia, 2023.
+- **Hong Liu**, Yongqing Sun, Yukihiro Bandoh, Masaki Kitahara, Shin’ichi Satoh. [Deep Counterfactual Representation Learning for Visual Recognition against Weather Corruptions](https://ieeexplore.ieee.org/document/10314032). IEEE Transactions on Multimedia, 2023.
 - **Hong Liu**. [Revisiting and Advancing Adversarial Training Through A Simple Baseline](http://arxiv.org/abs/2306.07613). In Arxiv, 2023.
 - **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. MIRU, 2023.
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]

@@ -10,7 +10,7 @@ I will join the Institute for Datability Science at Osaka University in 2024. I 
 
 ## Publications
 
-### AI Safty/Reliability:
+### AI Safty/Reliability
 
 - **Hong Liu**, Zhun Zhong, Nicu Sebe, Shin'ichi Satoh. [Mitigating Robust Overfitting via Self-Residual-Calibration Regularization](https://doi.org/10.1016/j.artint.2023.103877). Artificial Intelligence, 2023. [[CODES](https://github.com/LynnHongLiu/AIJ2023-SRC)]
 - **Hong Liu**, Yongqing Sun, Yukihiro Bandoh, Masaki Kitahara, Shin’ichi Satoh. [Deep Counterfactual Representation Learning for Visual Recognition against Weather Corruptions](https://ieeexplore.ieee.org/document/10314032). IEEE Transactions on Multimedia, 2023.

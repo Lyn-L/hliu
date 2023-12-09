@@ -38,7 +38,6 @@ I will join the Institute for Datability Science at Osaka University in 2024. I 
 - Zhengwei Yang, Xian Zhong, **Hong Liu**, Zhun Zhong, Zheng Wang. [Attentive Decoupling Network for Cloth-Changing Re-identification](https://ieeexplore.ieee.org/document/9859851). ICME, 2022.
 - Ke Sun, **Hong Liu**, Taiping Yao, Xiaoshuai Sun, Shen Chen, Shouhong Ding, Rongrong Ji. [An Information Theoretic Approach for Attention-Driven Face Forgery Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740105.pdf). ECCV, 2022. [[CODES](https://github.com/skJack/Code-for-SIA)]
 - Nobukatsu Kajiura, **Hong Liu**, Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021. [[CODES](https://github.com/nobukatsu-kajiura/UR-COD)]
-
 - Ke Sun, **Hong Liu**, Qixiang Ye, Yue Gao, Jianzhuang Liu, Ling Shao, Rongrong Ji. [Domain General Face Forgery Detection by Learning to Weight](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf). AAAI 2021. [[CODES](https://github.com/skJack/LTW)]
 - Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang, Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019. [[CODES](https://github.com/LynnHongLiu/Face-anti-spoofing)]
 

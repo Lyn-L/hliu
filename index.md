@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hongliu_2.JPG">
 
-I will join the Institute for Datability Science at Osaka University in 2024. I am currently a Researcher at the National Institute of Informatics. I received my doctoral degree from Xiamen University. My research interests are computer vision and machine learning, especially in AI safety/reliability, deep learning, multimodal ML, AI Ethics, and large-scale image retrieval.
+I am currently an AI Researcher at Osaka University. I received my doctoral degree from Xiamen University. My research interests are computer vision and machine learning, especially in AI safety/reliability, deep learning, multimodal ML, AI Ethics, and large-scale image retrieval.
 
 ## Publications
 

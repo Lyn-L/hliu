@@ -87,6 +87,8 @@ I will join the Institute for Datability Science at Osaka University in 2024. I 
 
 - **Guest Editor** of IJCV Special Issue on Open-World Visual Recognition.
 
+- **Associate Editor** of Visual Intelligence Journal 
+
 - **Guest Editor** of Electronics Special Issue on Adversarial Machine Learning: Attacks, Defenses and Security
 
 - **Guest Editor** of Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.

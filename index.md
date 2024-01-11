@@ -98,20 +98,10 @@ I am currently an AI Researcher at Osaka University. I received my doctoral degr
 
 - **Conference reviewer or PC member**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ICASSP, ACM MM, ACCV, ICMR.
 
-## Talks
-
-* "Understanding Adversarial Training via Model Calibration", Xiamen University, 2023.
-
-* "Evaluation of Person Re-identification Robustness: Attack and Defense", MLCSA workshop, ACCV 2022.
-
-* "Deep Facial Synthesis: A New Challenge", Institute of Automation, the Chinese Academy of Science, 2022.
-
-* "Adversarial Robustness in Computer Vision: Attack, Defense, and Beyond", Symposium: Excellent Doctoral Forum, ICIG 2021. 
-
 
 ## Contact
 
-**E-mail**:  lynnliu.xmu[AT]gmail.com or hliu[AT]nii.ac.jp
+**E-mail**:  lynnliu.xmu[AT]gmail.com or hliu[AT]nii.ac.jp or hliu[AT]ids.osaka-u.ac.jp
 
 ---
 <a href="http://s05.flagcounter.com/more/sw"><img src="https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>

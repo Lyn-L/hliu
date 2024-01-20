@@ -88,7 +88,9 @@ I am currently an AI Researcher at Osaka University. I received my doctoral degr
 
 - **Guest Editor** of IJCV Special Issue on Open-World Visual Recognition.
 
-- **Associate Editor** of Visual Intelligence Journal 
+- **Associate Editor** of Visual Intelligence Journal
+
+- **Area Chair** of ACM MM
 
 - **Guest Editor** of Electronics Special Issue on Adversarial Machine Learning: Attacks, Defenses and Security
 

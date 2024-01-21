@@ -65,11 +65,6 @@ I am currently an AI Researcher at Osaka University. I received my doctoral degr
 - Zelong Zeng, Fan Yang, **Hong Liu#**, Shin'ichi Satoh. [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566). In Arxiv, 2022. [[CODES](https://github.com/ZelongZeng/OBD-SD_Pytorch)] (# Corresponding Author)
 - Xiao Liu, Shengchuan Zhang, **Hong Liu**, Xin Liu, Cheng Deng, Rongrong Ji. [CerfGAN: A Compact, Effective, Robust, and Fast Model for Unsupervised Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1805.10871). In Arxiv, 2018.
 
-
-<!-- ## Working Experiences
-
-- 2015.07 - 2015.09, Research Intern, [Tencent Youtu Lab](https://bestimage.qq.com/). -->
-
 ## Honors and Awards
 
 * Notable Reviewer, ICLR 2023
@@ -86,24 +81,20 @@ I am currently an AI Researcher at Osaka University. I received my doctoral degr
 
 ## Activities
 
-- **Guest Editor** of IJCV Special Issue on Open-World Visual Recognition.
+- **Associate Editor**: Visual Intelligence Journal
 
-- **Associate Editor** of Visual Intelligence Journal
+- **Guest Editor**: IJCV, Electronics
 
-- **Area Chair** of ACM MM
+- **Area Chair**: ACM MM
+- 
+- **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TMM, IEEE TKDE, ...
 
-- **Guest Editor** of Electronics Special Issue on Adversarial Machine Learning: Attacks, Defenses and Security
-
-- **Guest Editor** of Electronics Special Issue on Multimedia Content Analysis, Management and Retrieval: Trends and Challenges.
-
-- **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, ACM TOPS, IEEE TMM, IEEE TKDE, IEEE TBD, IEEE TNNLS, IEEE TC, ACM TIST, IEEE TAI, PR, PRL, AIRE, KBS, NEUCOM, TVCJ, PLOS ONE, SIGNAL PROCESS-IMAGE.
-
-- **Conference reviewer or PC member**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ICASSP, ACM MM, ACCV, ICMR.
+- **Conference reviewer**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ACM MM, ...
 
 
 ## Contact
 
-**E-mail**:  lynnliu.xmu[AT]gmail.com or hliu[AT]nii.ac.jp or hliu[AT]ids.osaka-u.ac.jp
+**E-mail**:  lynnliu.xmu[AT]gmail.com or hliu[AT]ids.osaka-u.ac.jp
 
 ---
 <a href="http://s05.flagcounter.com/more/sw"><img src="https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>

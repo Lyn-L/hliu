@@ -86,7 +86,7 @@ I am currently an AI Researcher at Osaka University. I received my doctoral degr
 - **Guest Editor**: IJCV, Electronics
 
 - **Area Chair**: ACM MM
-- 
+
 - **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TMM, IEEE TKDE, ...
 
 - **Conference reviewer**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, ACM MM, ...

@@ -82,9 +82,9 @@ I received my doctoral degree from Xiamen University. My research interests are 
 
 ## Activities
 
-- **Associate Editor**: Visual Intelligence Journal
+- **Associate Editor**: Visual Intelligence
 
-- **Guest Editor**: IJCV, Electronics
+- **Guest Editor**: IJCV
 
 - **Area Chair**: ACM MM
 

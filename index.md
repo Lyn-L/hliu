@@ -14,7 +14,7 @@ I received my doctoral degree from Xiamen University. My research interests are 
 ### AI Safty/Reliability
 
 - **Hong Liu**, Zhun Zhong, Nicu Sebe, Shin'ichi Satoh. [Mitigating Robust Overfitting via Self-Residual-Calibration Regularization](https://doi.org/10.1016/j.artint.2023.103877). Artificial Intelligence, 2023. [[CODES](https://github.com/LynnHongLiu/AIJ2023-SRC)]
-(Also in IJCAI Journal Track, 2024)
+(Also with IJCAI Journal Track, 2024)
 - **Hong Liu**, Yongqing Sun, Yukihiro Bandoh, Masaki Kitahara, Shin’ichi Satoh. [Deep Counterfactual Representation Learning for Visual Recognition against Weather Corruptions](https://ieeexplore.ieee.org/document/10314032). IEEE Transactions on Multimedia, 2023.
 - **Hong Liu**. [Revisiting and Advancing Adversarial Training Through A Simple Baseline](http://arxiv.org/abs/2306.07613). In Arxiv, 2023.
 - **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. 画像の認識・理解シンポジウム (MIRU), 2023.

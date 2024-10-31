@@ -64,7 +64,7 @@ I received my doctoral degree from Xiamen University. My research interests are 
 - Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng,  Rongrong Ji. [Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding](https://lynnhongliu.github.io/hliu/icme18.pdf). ICME, 2018. (Oral) 
 
 ### Other Topics
-- **Hong Liu**, Yuta Nakashima, Noboru Babaguchi. Paladin: Understanding Video Intentions in Political Advertisement Videos. WACV 2025. [[Project](https://lyn-l.github.io/politicalad/)]
+- **Hong Liu**, Yuta Nakashima, Noboru Babaguchi. [Paladin: Understanding Video Intentions in Political Advertisement Videos](https://lyn-l.github.io/politicalad/). WACV 2025.
 - Eisei Nakahara, **Hong Liu**, Qiong Chang, Xian-hua Han. Deep Dual Internal Learning for Hyperspectral Image Super-Resolution. MMM 2025.
 - Antoine Gratia, **Hong Liu**, Shin'ichi Satoh, Paul Temple, Pierre-Yves Schobbens, Gilles Perrouin. CNNGen: A Generator and a Dataset for Energy-Aware Neural Architecture Search. ESANN 2024.
 - Zelong Zeng, Fan Yang, **Hong Liu#**, Shin'ichi Satoh. [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566). Viusal Intelligence, 2024. [[CODES](https://github.com/ZelongZeng/OBD-SD_Pytorch)] (# Corresponding Author)

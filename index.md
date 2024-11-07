@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="hongliu_2.JPG">
+<img class="profile-picture" src="A2869249-981A-49C0-AA30-8F6EE44A49CE.jpeg">
 
 I am currently an Assistant Professor and AI researcher at Osaka University. 
 I received my doctoral degree from Xiamen University. My research interests are computer vision and machine learning, especially in AI safety/reliability, deep learning, multimodal ML, AI Ethics, and large-scale image retrieval.

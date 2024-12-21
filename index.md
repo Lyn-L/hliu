@@ -90,9 +90,11 @@ I received my doctoral degree from Xiamen University. My research interests are 
 
 - **Associate Editor**: Visual Intelligence
 
-- **Guest Editor**: IJCV
+- **Guest Editor**: IJCV, Electronic, ...
 
-- **Area Chair**: ACM MM
+- **Conference Organizer**: CVPR 2025 Workshop
+
+- **Area Chair**: ACM MM, ...
 
 - **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TIFS, IEEE TMM, ...
 

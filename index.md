@@ -37,6 +37,7 @@ I received my doctoral degree from Xiamen University. My research interests are 
 - Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. [Universal Perturbation Attack Against Image Retrieval](https://arxiv.org/abs/1812.00552). ICCV, 2019. [[CODES](https://github.com/theFool32/UAP_retrieval)]
 
 ### Robust Visual Recognition
+- Ke Sun, Zhongxi Chen, Xianming Lin, Xiaoshuai Sun, **Hong Liu**, Rongrong Ji. Conditional Diffusion Models for Camouflaged and Salient Object Detection. IEEE TPAMI, 2025.
 - Ke Sun, Shen Chen, Taiping Yao, **Hong Liu#**, Xiaoshuai Sun, Shouhong Ding, Rongrong Ji. [DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion](https://arxiv.org/abs/2410.04372). NeurIPS, 2024. [[CODES](https://github.com/skJack/DiffusionFake)] (# Corresponding Author)
 - Zhenglin Zhou#, Huaxia Li#, **Hong Liu#**, Nanyang Wang, Gang Yu, Rongrong Ji. [STAR Loss: Reducing Semantic Ambiguity in Facial Landmark Detection](https://lynnhongliu.github.io/hliu/CVPR_23_STAR_Loss__Reducing_Semantic_Ambiguity_in_Improving_Facial_Landmark.pdf). CVPR, 2023. [[CODES](https://github.com/ZhenglinZhou/STAR)] (# contribute equally)
 - **Hong Liu**, Jie Li, Rongrong Ji, Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](https://aaai.org/ojs/index.php/AAAI/article/view/4899/4772). AAAI, 2019. [[CODES](https://github.com/theFool32/BoMS)]

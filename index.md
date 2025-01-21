@@ -7,7 +7,9 @@ layout: default
 <img class="profile-picture" src="photo.jpg">
 
 I am currently an Assistant Professor and AI researcher at Osaka University. 
-I received my doctoral degree from Xiamen University. My research interests are computer vision and machine learning, especially in AI safety/reliability, deep learning, multimodal ML, AI Ethics, and large-scale image retrieval.
+I will be an Associate Professor at Xiamen University from April, 2025.
+I received my doctoral degree from Xiamen University. 
+My research interests are Trusthworthy AI, AI ethics, and machine learning.
 
 ## Publications
 

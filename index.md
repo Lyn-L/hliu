@@ -39,7 +39,7 @@ My research interests are Trusthworthy AI, AI ethics, and machine learning.
 - Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. [Universal Perturbation Attack Against Image Retrieval](https://arxiv.org/abs/1812.00552). ICCV, 2019. [[CODES](https://github.com/theFool32/UAP_retrieval)]
 
 ### Robust Visual Recognition
-- Ke Sun, Zhongxi Chen, Xianming Lin, Xiaoshuai Sun, **Hong Liu#**, Rongrong Ji. Conditional Diffusion Models for Camouflaged and Salient Object Detection. IEEE TPAMI, 2025. [[CODES](https://github.com/Rapisurazurite/CamoDiffusion)]  (# Corresponding Author) 
+- Ke Sun, Zhongxi Chen, Xianming Lin, Xiaoshuai Sun, **Hong Liu#**, Rongrong Ji. [Conditional Diffusion Models for Camouflaged and Salient Object Detection](https://ieeexplore.ieee.org/document/10834569). IEEE TPAMI, 2025. [[CODES](https://github.com/Rapisurazurite/CamoDiffusion)]  (# Corresponding Author) 
 - Ke Sun, Shen Chen, Taiping Yao, **Hong Liu#**, Xiaoshuai Sun, Shouhong Ding, Rongrong Ji. [DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion](https://arxiv.org/abs/2410.04372). NeurIPS, 2024. [[CODES](https://github.com/skJack/DiffusionFake)] (# Corresponding Author)
 - Zhenglin Zhou#, Huaxia Li#, **Hong Liu#**, Nanyang Wang, Gang Yu, Rongrong Ji. [STAR Loss: Reducing Semantic Ambiguity in Facial Landmark Detection](https://lynnhongliu.github.io/hliu/CVPR_23_STAR_Loss__Reducing_Semantic_Ambiguity_in_Improving_Facial_Landmark.pdf). CVPR, 2023. [[CODES](https://github.com/ZhenglinZhou/STAR)] (# contribute equally)
 - **Hong Liu**, Jie Li, Rongrong Ji, Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](https://aaai.org/ojs/index.php/AAAI/article/view/4899/4772). AAAI, 2019. [[CODES](https://github.com/theFool32/BoMS)]
@@ -91,11 +91,11 @@ My research interests are Trusthworthy AI, AI ethics, and machine learning.
 
 ## Activities
 
+- **Guest Editor**: IJCV, ...
+
 - **Associate Editor**: Visual Intelligence
 
-- **Guest Editor**: IJCV, Electronic, ...
-
-- **Conference Organizer**: CVPR 2025 Workshop
+- **Conference/Workshop Organizer**: CVPR 2025 Workshop
 
 - **Area Chair**: ACM MM, ...
 
@@ -106,7 +106,7 @@ My research interests are Trusthworthy AI, AI ethics, and machine learning.
 
 ## Contact
 
-**E-mail**:  lynnliu.xmu[AT]gmail.com or hliu[AT]ids.osaka-u.ac.jp
+**E-mail**:  lynnliu.xmu[AT]gmail.com 
 
 ---
 <a href="http://s05.flagcounter.com/more/sw"><img src="https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>

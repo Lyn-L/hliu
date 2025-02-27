@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photo.jpg">
+<img class="profile-picture" src="nwe.jpg">
 
 I am currently an Assistant Professor and AI researcher at Osaka University. 
 I will be an Associate Professor at Xiamen University from April, 2025.

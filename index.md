@@ -95,7 +95,7 @@ My research interests are Trusthworthy AI, AI ethics, and machine learning.
 
 - **Associate Editor**: Visual Intelligence
 
-- **Conference/Workshop Organizer**: CVPR 2025 Workshop
+- **Conference/Workshop Organizer**: CVPR 2025, ACM MM 2025, ...
 
 - **Area Chair**: ACM MM, ...
 

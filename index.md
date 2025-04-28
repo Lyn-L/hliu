@@ -106,7 +106,7 @@ My research interests are Trusthworthy AI, AI ethics, and machine learning.
 
 ## Contact
 
-**E-mail**:  lynnliu.xmu[AT]gmail.com 
+**E-mail**: hlynn[AT]xmu.edu.cn or lynnliu.xmu[AT]gmail.com or hliu[AT]ids.osaka-u.ac.jp
 
 ---
 <a href="http://s05.flagcounter.com/more/sw"><img src="https://s05.flagcounter.com/count/sw/bg_FFFFFF/txt_000000/border_CC2121/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>

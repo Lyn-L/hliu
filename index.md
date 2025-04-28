@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="GmGS670aQAAYiCJ_副本.png">
 
-I am currently an Assistant Professor and AI researcher at Osaka University. 
-I will be an Associate Professor at Xiamen University from 2025.
+I am currently an Associate Professor at Xiamen University.
+I am also a Guest Assistant Professor at Osaka University. 
 I received my doctoral degree from Xiamen University. 
-My research interests are Trusthworthy AI, AI ethics, and machine learning.
+My research interests are trusthworthy AI, AI ethics, and large-scale machine learning.
 
 ## Publications
 

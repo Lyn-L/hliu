@@ -9,7 +9,7 @@ layout: default
 I am currently an Associate Professor at Xiamen University.
 I am also a Guest Assistant Professor at Osaka University. 
 I received my doctoral degree from Xiamen University. 
-My research interests are trusthworthy AI, AI ethics, and large-scale machine learning.
+My research interests are Trustworthy AI, AI ethics, and large-scale machine learning.
 
 ## Publications
 

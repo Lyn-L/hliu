@@ -78,6 +78,8 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 
 ## Honors and Awards
 
+* Fujian Provincial Patent Award, 2024
+
 * Notable Reviewer, ICLR 2023
 
 * Top-100 Chinese New Stars in Artificial Intelligence by Baidu Scholar, China, 2021

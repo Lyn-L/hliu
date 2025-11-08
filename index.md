@@ -68,6 +68,8 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 - Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng,  Rongrong Ji. [Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding](https://lynnhongliu.github.io/hliu/icme18.pdf). ICME, 2018. (Oral) 
 
 ### Other Topics
+- Liyun Zhang, Zheng Lian, **Hong Liu**, Takanori Takebe, Shozo Nishii, Yuta Nakashima. QuMAB: Query-based Multi-annotator Behavior Pattern Learning. AAAI 2026.
+- Liyun Zhang, Zheng Lian, **Hong Liu**, Takanori Takebe, Yuta Nakashima. SimLabel: Similarity-Weighted Semi-supervision for Multi-annotator Learning with Missing Labels. AAAI 2026.
 - Jun-Xiu Li, **Hong Liu**, Xiao Wu, Yu-Pei Song, Zhenhua Zeng, Shin'ichi Satoh. Rethinking Crowd Localization Evaluation via Optimal Transportation Cost. IEEE TCSVT, 2025.
 - **Hong Liu**, Yuta Nakashima, Noboru Babaguchi. [Paladin: Understanding Video Intentions in Political Advertisement Videos](https://lyn-l.github.io/politicalad/). WACV 2025.
 - Eisei Nakahara, **Hong Liu**, Qiong Chang, Xian-hua Han. Deep Dual Internal Learning for Hyperspectral Image Super-Resolution. MMM 2025.

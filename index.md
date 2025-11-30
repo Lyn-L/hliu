@@ -22,6 +22,7 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 - **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. 画像の認識・理解シンポジウム (MIRU), 2023.
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]
 - **Hong Liu** and Yitong Lu. [DoubleCCA: Improving Foundation Model Group Robustness with Random Sentence Embeddings](https://arxiv.org/abs/2411.16236). In Arxiv, 2024.
+- Hugo Lemarchant, **Hong Liu**, Yuta Nakashima. RobustQuote: Using Reference Images for Adversarial Robustness. Applied Sciences, 2025.
 - Hao Zhang, Wenqi Shao, **Hong Liu**, Yongqiang Ma, Ping Luo, Yu Qiao, Kaipeng Zhang. [AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](https://arxiv.org/abs/2403.09346), IEEE TIFS, 2024. 
 - Yue Yang, Yuqi lin, **Hong Liu**, Wenqi Shao, Runjian Chen, Hailong Shang, Yu Wang, Yu Qiao, Kaipeng Zhang, Ping Luo. [Towards Implicit Prompt For Text-To-Image Models](https://arxiv.org/abs/2403.02118). ICML, 2024. [[Project](https://github.com/yangyue5114/implicit_prompt)]
 - Huafeng Kuang, **Hong Liu#**, Xianming Liu, Rongrong Ji. [Defense Against Adversarial Attacks Using Topology Aligning Adversarial Training](https://ieeexplore.ieee.org/document/10416271). IEEE Trans. on Information Forensics and Security, 2024. (# Corresponding Author)
@@ -39,7 +40,8 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 - Jie Li, Rongrong Ji, **Hong Liu**, Xiaopeng Hong, Yue Gao, Qi Tian. [Universal Perturbation Attack Against Image Retrieval](https://arxiv.org/abs/1812.00552). ICCV, 2019. [[CODES](https://github.com/theFool32/UAP_retrieval)]
 
 ### Robust Visual Recognition
-- Ke Sun, Zhongxi Chen, Xianming Lin, Xiaoshuai Sun, **Hong Liu#**, Rongrong Ji. [Conditional Diffusion Models for Camouflaged and Salient Object Detection](https://ieeexplore.ieee.org/document/10834569). IEEE TPAMI, 2025. [[CODES](https://github.com/Rapisurazurite/CamoDiffusion)]  (# Corresponding Author) 
+- Ke Sun, Zhongxi Chen, Xianming Lin, Xiaoshuai Sun, **Hong Liu#**, Rongrong Ji. [Conditional Diffusion Models for Camouflaged and Salient Object Detection](https://ieeexplore.ieee.org/document/10834569). IEEE TPAMI, 2025. [[CODES](https://github.com/Rapisurazurite/CamoDiffusion)]  (# Corresponding Author)
+- Jiahao Zhang, Bowen Wang, **Hong Liu**, Liangzhi Li, Yuta Nakashima, Hajime Nagahara. E-InMeMo: Enhanced Prompting for Visual In-Context Learning. Journal of Imaging, 2025.
 - Ke Sun, Shen Chen, Taiping Yao, **Hong Liu#**, Xiaoshuai Sun, Shouhong Ding, Rongrong Ji. [DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion](https://arxiv.org/abs/2410.04372). NeurIPS, 2024. [[CODES](https://github.com/skJack/DiffusionFake)] (# Corresponding Author)
 - Zhenglin Zhou#, Huaxia Li#, **Hong Liu#**, Nanyang Wang, Gang Yu, Rongrong Ji. [STAR Loss: Reducing Semantic Ambiguity in Facial Landmark Detection](https://lynnhongliu.github.io/hliu/CVPR_23_STAR_Loss__Reducing_Semantic_Ambiguity_in_Improving_Facial_Landmark.pdf). CVPR, 2023. [[CODES](https://github.com/ZhenglinZhou/STAR)] (# contribute equally)
 - **Hong Liu**, Jie Li, Rongrong Ji, Yongjian Wu. [Learning Neural Bag-of-Matrix-Summarization with Riemannian Network](https://aaai.org/ojs/index.php/AAAI/article/view/4899/4772). AAAI, 2019. [[CODES](https://github.com/theFool32/BoMS)]
@@ -49,6 +51,7 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 - Nobukatsu Kajiura, **Hong Liu**, Shin'ichi Satoh. [Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels](https://arxiv.org/pdf/2110.15606.pdf). ACM MM Asia, 2021. [[CODES](https://github.com/nobukatsu-kajiura/UR-COD)]
 - Ke Sun, **Hong Liu**, Qixiang Ye, Yue Gao, Jianzhuang Liu, Ling Shao, Rongrong Ji. [Domain General Face Forgery Detection by Learning to Weight](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf). AAAI 2021. [[CODES](https://github.com/skJack/LTW)]
 - Huafeng Kuang, Rongrong Ji, **Hong Liu**, Shengchuan Zhang, Xiaoshuai Sun, Feiyue Huang, Baochang Zhang. Multi-modal Multi-layer Fusion Network with Average Binary Center Loss for Face Anti-spoofing. ACM MM, 2019. [[CODES](https://github.com/LynnHongLiu/Face-anti-spoofing)]
+
 
 ### Fast Nearest Neighbour Search
 
@@ -100,7 +103,7 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 
 - **Associate Editor**: Visual Intelligence
 
-- **Conference/Workshop Organizer**: CVPR 2025, ACM MM 2025, ...
+- **Conference/Workshop Organizer**: CVPR 2025, ACM MM 2025, MMM 2026, ...
 
 - **Area Chair**: ACM MM, ...
 

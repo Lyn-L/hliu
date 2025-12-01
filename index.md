@@ -111,6 +111,11 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 
 - **Conference reviewer**: ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI, ACM MM, ...
 
+## Reseach Group
+
+- PhD Students: Yugen Qiu, Ziqiang Zhang
+- Master Students: Ze Gao, Hongyi Lan, Jiarun Gan, Junjie Zeng, Minghao Wu, Jiayi Shen
+- Undergraduate Students: Zhitong Li, Shuai Lin, Siyu Qi, Kejing Li, Houtian He
 
 ## Contact
 

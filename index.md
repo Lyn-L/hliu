@@ -22,6 +22,7 @@ My research interests are Trustworthy AI, AI ethics, and large-scale machine lea
 - **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. 画像の認識・理解シンポジウム (MIRU), 2023.
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]
 - **Hong Liu** and Yitong Lu. [DoubleCCA: Improving Foundation Model Group Robustness with Random Sentence Embeddings](https://arxiv.org/abs/2411.16236). In Arxiv, 2024.
+- Sisuo Lyu, **Hong Liu#**, Jie Li, Yan Teng, Yingchun Wang. Improving Foundation Model Group Robustness with Auxiliary Sentence Embeddings. TMRL 2026. (# Corresponding Author)
 - Hugo Lemarchant, **Hong Liu**, Yuta Nakashima. RobustQuote: Using Reference Images for Adversarial Robustness. Applied Sciences, 2025.
 - Hao Zhang, Wenqi Shao, **Hong Liu**, Yongqiang Ma, Ping Luo, Yu Qiao, Kaipeng Zhang. [AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](https://arxiv.org/abs/2403.09346), IEEE TIFS, 2024. 
 - Yue Yang, Yuqi lin, **Hong Liu**, Wenqi Shao, Runjian Chen, Hailong Shang, Yu Wang, Yu Qiao, Kaipeng Zhang, Ping Luo. [Towards Implicit Prompt For Text-To-Image Models](https://arxiv.org/abs/2403.02118). ICML, 2024. [[Project](https://github.com/yangyue5114/implicit_prompt)]

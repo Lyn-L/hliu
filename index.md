@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="GmGS670aQAAYiCJ_副本.png">
+<img class="profile-picture" src="photo.jpg">
 
 I am currently an Associate Professor at Xiamen University.
 I am also a Guest Assistant Professor at The University of Osaka. 

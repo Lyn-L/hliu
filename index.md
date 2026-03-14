@@ -19,7 +19,7 @@ I am currently an Associate Professor at Xiamen University. My research interest
 - **Hong Liu**, Yongqing Sun, Shin’ichi Satoh. Rethinking Robust 3D Recognition via Multi-view Test-Time Adaptation. 画像の認識・理解シンポジウム (MIRU), 2023.
 - **Hong Liu**, Rongrong Ji, Jie Li, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation](http://mac.xmu.edu.cn/rrji/papers/Universal%20Adversarial%20Perturbation%20via%20Prior%20D.pdf). ICCV, 2019. (Oral). [[CODES](https://github.com/LynnHongLiu/PDUA)]
 - **Hong Liu** and Yitong Lu. [DoubleCCA: Improving Foundation Model Group Robustness with Random Sentence Embeddings](https://arxiv.org/abs/2411.16236). In Arxiv, 2024.
-- Yaoyu Jin, Xiaochun Yang, **Hong Liu**, Leixia Wang, Jian Li, Rui Ding, Bin Wang. COPYLENS: Towards Copyrighted Characters Infringement Detection via Copyright-Aware Prompt Learning. CVPR 2026.
+- Yaoyu Jin, Xiaochun Yang#, **Hong Liu#**, Leixia Wang, Jian Li, Rui Ding, Bin Wang. COPYLENS: Towards Copyrighted Characters Infringement Detection via Copyright-Aware Prompt Learning. CVPR 2026. (# Corresponding Author)
 - Sisuo Lyu, **Hong Liu#**, Jie Li, Yan Teng, Yingchun Wang. Improving Foundation Model Group Robustness with Auxiliary Sentence Embeddings. TMRL 2026. (# Corresponding Author)[[CODES](https://github.com/sisuolv/doublecca)]
 - Hugo Lemarchant, **Hong Liu**, Yuta Nakashima. RobustQuote: Using Reference Images for Adversarial Robustness. Applied Sciences, 2025.
 - Hao Zhang, Wenqi Shao, **Hong Liu**, Yongqiang Ma, Ping Luo, Yu Qiao, Kaipeng Zhang. [AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](https://arxiv.org/abs/2403.09346), IEEE TIFS, 2024. 

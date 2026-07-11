@@ -71,6 +71,7 @@ I am currently an Associate Professor at Xiamen University. My research interest
 - Jianqiang Qian, Xianmin Lin, **Hong Liu**, Youming Deng,  Rongrong Ji. [Towards Compact Visual Descriptor via Deep Fisher Network with Binary Embedding](https://lynnhongliu.github.io/hliu/icme18.pdf). ICME, 2018. (Oral) 
 
 ### Other Topics
+- Jun-Xiu Li, Xiao Wu, **Hong Liu#**, Yu-Pei Song, Qi He. Rethinking Low-Frequency Bias in Transformers for Crowd Localization. ACM MM 2026.
 - Yangze Liu, **Hong Liu#**. Rethinking Dataset Quantization: Efficient Coreset Selection via Semantically-Aware Data Augmentation. TMLR 2026. (# Corresponding Author)
 - Hongyi Lan, Jiaqi Song, Zhengjia Zhong, Hui Li, **Hong Liu**, Xianming Liu, Rongrong Ji. EMA: An Episodic Memory Agent for Efficient and Selective Memory. ACL Findings 2026.
 - Liyun Zhang, Zheng Lian, **Hong Liu**, Takanori Takebe, Shozo Nishii, Yuta Nakashima. QuMAB: Query-based Multi-annotator Behavior Pattern Learning. AAAI 2026. (Oral)
